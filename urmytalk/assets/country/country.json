@@ -1,0 +1,4699 @@
+[
+    {
+        "countryname": "Afghanistan",
+        "emoji": "\ud83c\udde6\ud83c\uddeb",
+        "emojiU": "U+1F1E6 U+1F1EB",
+        "city": [
+            {
+                "cityname": "Kabul",
+                "gmt": "+04:30",
+                "sign": false,
+                "hour": 4,
+                "min": 30
+            }
+        ]
+    },
+    {
+        "countryname": "Aland Islands",
+        "emoji": "\ud83c\udde6\ud83c\uddfd",
+        "emojiU": "U+1F1E6 U+1F1FD",
+        "city": [
+            {
+                "cityname": "Mariehamn",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Albania",
+        "emoji": "\ud83c\udde6\ud83c\uddf1",
+        "emojiU": "U+1F1E6 U+1F1F1",
+        "city": [
+            {
+                "cityname": "Tirane",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Algeria",
+        "emoji": "\ud83c\udde9\ud83c\uddff",
+        "emojiU": "U+1F1E9 U+1F1FF",
+        "city": [
+            {
+                "cityname": "Algiers",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "American Samoa",
+        "emoji": "\ud83c\udde6\ud83c\uddf8",
+        "emojiU": "U+1F1E6 U+1F1F8",
+        "city": [
+            {
+                "cityname": "Pago_Pago",
+                "gmt": "-11:00",
+                "sign": false,
+                "hour": 20,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Andorra",
+        "emoji": "\ud83c\udde6\ud83c\udde9",
+        "emojiU": "U+1F1E6 U+1F1E9",
+        "city": [
+            {
+                "cityname": "Andorra",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Angola",
+        "emoji": "\ud83c\udde6\ud83c\uddf4",
+        "emojiU": "U+1F1E6 U+1F1F4",
+        "city": [
+            {
+                "cityname": "Luanda",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Anguilla",
+        "emoji": "\ud83c\udde6\ud83c\uddee",
+        "emojiU": "U+1F1E6 U+1F1EE",
+        "city": [
+            {
+                "cityname": "Anguilla",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Antarctica",
+        "emoji": "\ud83c\udde6\ud83c\uddf6",
+        "emojiU": "U+1F1E6 U+1F1F6",
+        "city": [
+            {
+                "cityname": "Troll",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            },
+            {
+                "cityname": "Palmer",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Rothera",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Syowa",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            },
+            {
+                "cityname": "Mawson",
+                "gmt": "+05:00",
+                "sign": false,
+                "hour": 4,
+                "min": 0
+            },
+            {
+                "cityname": "Vostok",
+                "gmt": "+06:00",
+                "sign": false,
+                "hour": 3,
+                "min": 0
+            },
+            {
+                "cityname": "Davis",
+                "gmt": "+07:00",
+                "sign": false,
+                "hour": 2,
+                "min": 0
+            },
+            {
+                "cityname": "Casey",
+                "gmt": "+08:00",
+                "sign": false,
+                "hour": 1,
+                "min": 0
+            },
+            {
+                "cityname": "DumontDUrville",
+                "gmt": "+10:00",
+                "sign": true,
+                "hour": 1,
+                "min": 0
+            },
+            {
+                "cityname": "McMurdo",
+                "gmt": "+12:00",
+                "sign": true,
+                "hour": 3,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Antigua And Barbuda",
+        "emoji": "\ud83c\udde6\ud83c\uddec",
+        "emojiU": "U+1F1E6 U+1F1EC",
+        "city": [
+            {
+                "cityname": "Antigua",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Argentina",
+        "emoji": "\ud83c\udde6\ud83c\uddf7",
+        "emojiU": "U+1F1E6 U+1F1F7",
+        "city": [
+            {
+                "cityname": "Buenos_Aires",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Catamarca",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Cordoba",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Jujuy",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "La_Rioja",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Mendoza",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Rio_Gallegos",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Salta",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "San_Juan",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "San_Luis",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Tucuman",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Ushuaia",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Armenia",
+        "emoji": "\ud83c\udde6\ud83c\uddf2",
+        "emojiU": "U+1F1E6 U+1F1F2",
+        "city": [
+            {
+                "cityname": "Yerevan",
+                "gmt": "+04:00",
+                "sign": false,
+                "hour": 5,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Aruba",
+        "emoji": "\ud83c\udde6\ud83c\uddfc",
+        "emojiU": "U+1F1E6 U+1F1FC",
+        "city": [
+            {
+                "cityname": "Aruba",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Australia",
+        "emoji": "\ud83c\udde6\ud83c\uddfa",
+        "emojiU": "U+1F1E6 U+1F1FA",
+        "city": [
+            {
+                "cityname": "Perth",
+                "gmt": "+08:00",
+                "sign": false,
+                "hour": 1,
+                "min": 0
+            },
+            {
+                "cityname": "Eucla",
+                "gmt": "+08:45",
+                "sign": false,
+                "hour": 0,
+                "min": 15
+            },
+            {
+                "cityname": "Adelaide",
+                "gmt": "+09:30",
+                "sign": true,
+                "hour": 0,
+                "min": 30
+            },
+            {
+                "cityname": "Broken_Hill",
+                "gmt": "+09:30",
+                "sign": true,
+                "hour": 0,
+                "min": 30
+            },
+            {
+                "cityname": "Darwin",
+                "gmt": "+09:30",
+                "sign": true,
+                "hour": 0,
+                "min": 30
+            },
+            {
+                "cityname": "Brisbane",
+                "gmt": "+10:00",
+                "sign": true,
+                "hour": 1,
+                "min": 0
+            },
+            {
+                "cityname": "Currie",
+                "gmt": "+10:00",
+                "sign": true,
+                "hour": 1,
+                "min": 0
+            },
+            {
+                "cityname": "Hobart",
+                "gmt": "+10:00",
+                "sign": true,
+                "hour": 1,
+                "min": 0
+            },
+            {
+                "cityname": "Lindeman",
+                "gmt": "+10:00",
+                "sign": true,
+                "hour": 1,
+                "min": 0
+            },
+            {
+                "cityname": "Melbourne",
+                "gmt": "+10:00",
+                "sign": true,
+                "hour": 1,
+                "min": 0
+            },
+            {
+                "cityname": "Sydney",
+                "gmt": "+10:00",
+                "sign": true,
+                "hour": 1,
+                "min": 0
+            },
+            {
+                "cityname": "Lord_Howe",
+                "gmt": "+10:30",
+                "sign": true,
+                "hour": 1,
+                "min": 30
+            },
+            {
+                "cityname": "Macquarie",
+                "gmt": "+11:00",
+                "sign": true,
+                "hour": 2,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Austria",
+        "emoji": "\ud83c\udde6\ud83c\uddf9",
+        "emojiU": "U+1F1E6 U+1F1F9",
+        "city": [
+            {
+                "cityname": "Vienna",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Azerbaijan",
+        "emoji": "\ud83c\udde6\ud83c\uddff",
+        "emojiU": "U+1F1E6 U+1F1FF",
+        "city": [
+            {
+                "cityname": "Baku",
+                "gmt": "+04:00",
+                "sign": false,
+                "hour": 5,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Bahamas",
+        "emoji": "\ud83c\udde7\ud83c\uddf8",
+        "emojiU": "U+1F1E7 U+1F1F8",
+        "city": [
+            {
+                "cityname": "Nassau",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Bahrain",
+        "emoji": "\ud83c\udde7\ud83c\udded",
+        "emojiU": "U+1F1E7 U+1F1ED",
+        "city": [
+            {
+                "cityname": "Bahrain",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Bangladesh",
+        "emoji": "\ud83c\udde7\ud83c\udde9",
+        "emojiU": "U+1F1E7 U+1F1E9",
+        "city": [
+            {
+                "cityname": "Dhaka",
+                "gmt": "+06:00",
+                "sign": false,
+                "hour": 3,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Barbados",
+        "emoji": "\ud83c\udde7\ud83c\udde7",
+        "emojiU": "U+1F1E7 U+1F1E7",
+        "city": [
+            {
+                "cityname": "Barbados",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Belarus",
+        "emoji": "\ud83c\udde7\ud83c\uddfe",
+        "emojiU": "U+1F1E7 U+1F1FE",
+        "city": [
+            {
+                "cityname": "Minsk",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Belgium",
+        "emoji": "\ud83c\udde7\ud83c\uddea",
+        "emojiU": "U+1F1E7 U+1F1EA",
+        "city": [
+            {
+                "cityname": "Brussels",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Belize",
+        "emoji": "\ud83c\udde7\ud83c\uddff",
+        "emojiU": "U+1F1E7 U+1F1FF",
+        "city": [
+            {
+                "cityname": "Belize",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Benin",
+        "emoji": "\ud83c\udde7\ud83c\uddef",
+        "emojiU": "U+1F1E7 U+1F1EF",
+        "city": [
+            {
+                "cityname": "Porto_Novo",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Bermuda",
+        "emoji": "\ud83c\udde7\ud83c\uddf2",
+        "emojiU": "U+1F1E7 U+1F1F2",
+        "city": [
+            {
+                "cityname": "Bermuda",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Bhutan",
+        "emoji": "\ud83c\udde7\ud83c\uddf9",
+        "emojiU": "U+1F1E7 U+1F1F9",
+        "city": [
+            {
+                "cityname": "Thimphu",
+                "gmt": "+06:00",
+                "sign": false,
+                "hour": 3,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Bolivia",
+        "emoji": "\ud83c\udde7\ud83c\uddf4",
+        "emojiU": "U+1F1E7 U+1F1F4",
+        "city": [
+            {
+                "cityname": "La_Paz",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Bonaire, Saint Eustatius And Saba",
+        "emoji": "\ud83c\udde7\ud83c\uddf6",
+        "emojiU": "U+1F1E7 U+1F1F6",
+        "city": [
+            {
+                "cityname": "Kralendijk",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Bosnia And Herzegovina",
+        "emoji": "\ud83c\udde7\ud83c\udde6",
+        "emojiU": "U+1F1E7 U+1F1E6",
+        "city": [
+            {
+                "cityname": "Sarajevo",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Botswana",
+        "emoji": "\ud83c\udde7\ud83c\uddfc",
+        "emojiU": "U+1F1E7 U+1F1FC",
+        "city": [
+            {
+                "cityname": "Gaborone",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Brazil",
+        "emoji": "\ud83c\udde7\ud83c\uddf7",
+        "emojiU": "U+1F1E7 U+1F1F7",
+        "city": [
+            {
+                "cityname": "Noronha",
+                "gmt": "-02:00",
+                "sign": false,
+                "hour": 11,
+                "min": 0
+            },
+            {
+                "cityname": "Araguaina",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Bahia",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Belem",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Fortaleza",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Maceio",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Recife",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Santarem",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Sao_Paulo",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Boa_Vista",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Campo_Grande",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Cuiaba",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Manaus",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Porto_Velho",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Eirunepe",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Rio_Branco",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "British Indian Ocean Territory",
+        "emoji": "\ud83c\uddee\ud83c\uddf4",
+        "emojiU": "U+1F1EE U+1F1F4",
+        "city": [
+            {
+                "cityname": "Chagos",
+                "gmt": "+06:00",
+                "sign": false,
+                "hour": 3,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "British Virgin Islands",
+        "emoji": "\ud83c\uddfb\ud83c\uddec",
+        "emojiU": "U+1F1FB U+1F1EC",
+        "city": [
+            {
+                "cityname": "Tortola",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Brunei",
+        "emoji": "\ud83c\udde7\ud83c\uddf3",
+        "emojiU": "U+1F1E7 U+1F1F3",
+        "city": [
+            {
+                "cityname": "Brunei",
+                "gmt": "+08:00",
+                "sign": false,
+                "hour": 1,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Bulgaria",
+        "emoji": "\ud83c\udde7\ud83c\uddec",
+        "emojiU": "U+1F1E7 U+1F1EC",
+        "city": [
+            {
+                "cityname": "Sofia",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Burkina Faso",
+        "emoji": "\ud83c\udde7\ud83c\uddeb",
+        "emojiU": "U+1F1E7 U+1F1EB",
+        "city": [
+            {
+                "cityname": "Ouagadougou",
+                "gmt": "+00:00",
+                "sign": false,
+                "hour": 9,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Burundi",
+        "emoji": "\ud83c\udde7\ud83c\uddee",
+        "emojiU": "U+1F1E7 U+1F1EE",
+        "city": [
+            {
+                "cityname": "Bujumbura",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Cambodia",
+        "emoji": "\ud83c\uddf0\ud83c\udded",
+        "emojiU": "U+1F1F0 U+1F1ED",
+        "city": [
+            {
+                "cityname": "Phnom_Penh",
+                "gmt": "+07:00",
+                "sign": false,
+                "hour": 2,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Cameroon",
+        "emoji": "\ud83c\udde8\ud83c\uddf2",
+        "emojiU": "U+1F1E8 U+1F1F2",
+        "city": [
+            {
+                "cityname": "Douala",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Canada",
+        "emoji": "\ud83c\udde8\ud83c\udde6",
+        "emojiU": "U+1F1E8 U+1F1E6",
+        "city": [
+            {
+                "cityname": "St_Johns",
+                "gmt": "-02:30",
+                "sign": false,
+                "hour": 11,
+                "min": 30
+            },
+            {
+                "cityname": "Glace_Bay",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Goose_Bay",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Halifax",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Moncton",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Blanc_Sablon",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Iqaluit",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Nipigon",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Pangnirtung",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Thunder_Bay",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Toronto",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Atikokan",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Rainy_River",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Rankin_Inlet",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Resolute",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Winnipeg",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Cambridge_Bay",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            },
+            {
+                "cityname": "Edmonton",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            },
+            {
+                "cityname": "Inuvik",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            },
+            {
+                "cityname": "Regina",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            },
+            {
+                "cityname": "Swift_Current",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            },
+            {
+                "cityname": "Yellowknife",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            },
+            {
+                "cityname": "Creston",
+                "gmt": "-07:00",
+                "sign": false,
+                "hour": 16,
+                "min": 0
+            },
+            {
+                "cityname": "Dawson",
+                "gmt": "-07:00",
+                "sign": false,
+                "hour": 16,
+                "min": 0
+            },
+            {
+                "cityname": "Dawson_Creek",
+                "gmt": "-07:00",
+                "sign": false,
+                "hour": 16,
+                "min": 0
+            },
+            {
+                "cityname": "Fort_Nelson",
+                "gmt": "-07:00",
+                "sign": false,
+                "hour": 16,
+                "min": 0
+            },
+            {
+                "cityname": "Vancouver",
+                "gmt": "-07:00",
+                "sign": false,
+                "hour": 16,
+                "min": 0
+            },
+            {
+                "cityname": "Whitehorse",
+                "gmt": "-07:00",
+                "sign": false,
+                "hour": 16,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Cape Verde",
+        "emoji": "\ud83c\udde8\ud83c\uddfb",
+        "emojiU": "U+1F1E8 U+1F1FB",
+        "city": [
+            {
+                "cityname": "Cape_Verde",
+                "gmt": "-01:00",
+                "sign": false,
+                "hour": 10,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Cayman Islands",
+        "emoji": "\ud83c\uddf0\ud83c\uddfe",
+        "emojiU": "U+1F1F0 U+1F1FE",
+        "city": [
+            {
+                "cityname": "Cayman",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Central African Republic",
+        "emoji": "\ud83c\udde8\ud83c\uddeb",
+        "emojiU": "U+1F1E8 U+1F1EB",
+        "city": [
+            {
+                "cityname": "Bangui",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Chad",
+        "emoji": "\ud83c\uddf9\ud83c\udde9",
+        "emojiU": "U+1F1F9 U+1F1E9",
+        "city": [
+            {
+                "cityname": "Ndjamena",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Chile",
+        "emoji": "\ud83c\udde8\ud83c\uddf1",
+        "emojiU": "U+1F1E8 U+1F1F1",
+        "city": [
+            {
+                "cityname": "Punta_Arenas",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Santiago",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Easter",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "China",
+        "emoji": "\ud83c\udde8\ud83c\uddf3",
+        "emojiU": "U+1F1E8 U+1F1F3",
+        "city": [
+            {
+                "cityname": "Urumqi",
+                "gmt": "+06:00",
+                "sign": false,
+                "hour": 3,
+                "min": 0
+            },
+            {
+                "cityname": "Shanghai",
+                "gmt": "+08:00",
+                "sign": false,
+                "hour": 1,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Christmas Island",
+        "emoji": "\ud83c\udde8\ud83c\uddfd",
+        "emojiU": "U+1F1E8 U+1F1FD",
+        "city": [
+            {
+                "cityname": "Christmas",
+                "gmt": "+07:00",
+                "sign": false,
+                "hour": 2,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Cocos Islands",
+        "emoji": "\ud83c\udde8\ud83c\udde8",
+        "emojiU": "U+1F1E8 U+1F1E8",
+        "city": [
+            {
+                "cityname": "Cocos",
+                "gmt": "+06:30",
+                "sign": false,
+                "hour": 2,
+                "min": 30
+            }
+        ]
+    },
+    {
+        "countryname": "Colombia",
+        "emoji": "\ud83c\udde8\ud83c\uddf4",
+        "emojiU": "U+1F1E8 U+1F1F4",
+        "city": [
+            {
+                "cityname": "Bogota",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Comoros",
+        "emoji": "\ud83c\uddf0\ud83c\uddf2",
+        "emojiU": "U+1F1F0 U+1F1F2",
+        "city": [
+            {
+                "cityname": "Comoro",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Cook Islands",
+        "emoji": "\ud83c\udde8\ud83c\uddf0",
+        "emojiU": "U+1F1E8 U+1F1F0",
+        "city": [
+            {
+                "cityname": "Rarotonga",
+                "gmt": "-10:00",
+                "sign": false,
+                "hour": 19,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Costa Rica",
+        "emoji": "\ud83c\udde8\ud83c\uddf7",
+        "emojiU": "U+1F1E8 U+1F1F7",
+        "city": [
+            {
+                "cityname": "Costa_Rica",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Croatia",
+        "emoji": "\ud83c\udded\ud83c\uddf7",
+        "emojiU": "U+1F1ED U+1F1F7",
+        "city": [
+            {
+                "cityname": "Zagreb",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Cuba",
+        "emoji": "\ud83c\udde8\ud83c\uddfa",
+        "emojiU": "U+1F1E8 U+1F1FA",
+        "city": [
+            {
+                "cityname": "Havana",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Curacao",
+        "emoji": "\ud83c\udde8\ud83c\uddfc",
+        "emojiU": "U+1F1E8 U+1F1FC",
+        "city": [
+            {
+                "cityname": "Curacao",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Cyprus",
+        "emoji": "\ud83c\udde8\ud83c\uddfe",
+        "emojiU": "U+1F1E8 U+1F1FE",
+        "city": [
+            {
+                "cityname": "Famagusta",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            },
+            {
+                "cityname": "Nicosia",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Czech Republic",
+        "emoji": "\ud83c\udde8\ud83c\uddff",
+        "emojiU": "U+1F1E8 U+1F1FF",
+        "city": [
+            {
+                "cityname": "Prague",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Democratic Republic Of The Congo",
+        "emoji": "\ud83c\udde8\ud83c\udde9",
+        "emojiU": "U+1F1E8 U+1F1E9",
+        "city": [
+            {
+                "cityname": "Kinshasa",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            },
+            {
+                "cityname": "Lubumbashi",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Denmark",
+        "emoji": "\ud83c\udde9\ud83c\uddf0",
+        "emojiU": "U+1F1E9 U+1F1F0",
+        "city": [
+            {
+                "cityname": "Copenhagen",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Djibouti",
+        "emoji": "\ud83c\udde9\ud83c\uddef",
+        "emojiU": "U+1F1E9 U+1F1EF",
+        "city": [
+            {
+                "cityname": "Djibouti",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Dominica",
+        "emoji": "\ud83c\udde9\ud83c\uddf2",
+        "emojiU": "U+1F1E9 U+1F1F2",
+        "city": [
+            {
+                "cityname": "Dominica",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Dominican Republic",
+        "emoji": "\ud83c\udde9\ud83c\uddf4",
+        "emojiU": "U+1F1E9 U+1F1F4",
+        "city": [
+            {
+                "cityname": "Santo_Domingo",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "East Timor",
+        "emoji": "\ud83c\uddf9\ud83c\uddf1",
+        "emojiU": "U+1F1F9 U+1F1F1",
+        "city": [
+            {
+                "cityname": "Dili",
+                "gmt": "+09:00",
+                "sign": true,
+                "hour": 0,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Ecuador",
+        "emoji": "\ud83c\uddea\ud83c\udde8",
+        "emojiU": "U+1F1EA U+1F1E8",
+        "city": [
+            {
+                "cityname": "Guayaquil",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Galapagos",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Egypt",
+        "emoji": "\ud83c\uddea\ud83c\uddec",
+        "emojiU": "U+1F1EA U+1F1EC",
+        "city": [
+            {
+                "cityname": "Cairo",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "El Salvador",
+        "emoji": "\ud83c\uddf8\ud83c\uddfb",
+        "emojiU": "U+1F1F8 U+1F1FB",
+        "city": [
+            {
+                "cityname": "El_Salvador",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Equatorial Guinea",
+        "emoji": "\ud83c\uddec\ud83c\uddf6",
+        "emojiU": "U+1F1EC U+1F1F6",
+        "city": [
+            {
+                "cityname": "Malabo",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Eritrea",
+        "emoji": "\ud83c\uddea\ud83c\uddf7",
+        "emojiU": "U+1F1EA U+1F1F7",
+        "city": [
+            {
+                "cityname": "Asmara",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Estonia",
+        "emoji": "\ud83c\uddea\ud83c\uddea",
+        "emojiU": "U+1F1EA U+1F1EA",
+        "city": [
+            {
+                "cityname": "Tallinn",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Ethiopia",
+        "emoji": "\ud83c\uddea\ud83c\uddf9",
+        "emojiU": "U+1F1EA U+1F1F9",
+        "city": [
+            {
+                "cityname": "Addis_Ababa",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Falkland Islands",
+        "emoji": "\ud83c\uddeb\ud83c\uddf0",
+        "emojiU": "U+1F1EB U+1F1F0",
+        "city": [
+            {
+                "cityname": "Stanley",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Faroe Islands",
+        "emoji": "\ud83c\uddeb\ud83c\uddf4",
+        "emojiU": "U+1F1EB U+1F1F4",
+        "city": [
+            {
+                "cityname": "Faroe",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Fiji",
+        "emoji": "\ud83c\uddeb\ud83c\uddef",
+        "emojiU": "U+1F1EB U+1F1EF",
+        "city": [
+            {
+                "cityname": "Fiji",
+                "gmt": "+12:00",
+                "sign": true,
+                "hour": 3,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Finland",
+        "emoji": "\ud83c\uddeb\ud83c\uddee",
+        "emojiU": "U+1F1EB U+1F1EE",
+        "city": [
+            {
+                "cityname": "Helsinki",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "France",
+        "emoji": "\ud83c\uddeb\ud83c\uddf7",
+        "emojiU": "U+1F1EB U+1F1F7",
+        "city": [
+            {
+                "cityname": "Paris",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "French Guiana",
+        "emoji": "\ud83c\uddec\ud83c\uddeb",
+        "emojiU": "U+1F1EC U+1F1EB",
+        "city": [
+            {
+                "cityname": "Cayenne",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "French Polynesia",
+        "emoji": "\ud83c\uddf5\ud83c\uddeb",
+        "emojiU": "U+1F1F5 U+1F1EB",
+        "city": [
+            {
+                "cityname": "Gambier",
+                "gmt": "-09:00",
+                "sign": false,
+                "hour": 18,
+                "min": 0
+            },
+            {
+                "cityname": "Marquesas",
+                "gmt": "-09:30",
+                "sign": false,
+                "hour": 18,
+                "min": 30
+            },
+            {
+                "cityname": "Tahiti",
+                "gmt": "-10:00",
+                "sign": false,
+                "hour": 19,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "French Southern Territories",
+        "emoji": "\ud83c\uddf9\ud83c\uddeb",
+        "emojiU": "U+1F1F9 U+1F1EB",
+        "city": [
+            {
+                "cityname": "Kerguelen",
+                "gmt": "+05:00",
+                "sign": false,
+                "hour": 4,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Gabon",
+        "emoji": "\ud83c\uddec\ud83c\udde6",
+        "emojiU": "U+1F1EC U+1F1E6",
+        "city": [
+            {
+                "cityname": "Libreville",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Gambia",
+        "emoji": "\ud83c\uddec\ud83c\uddf2",
+        "emojiU": "U+1F1EC U+1F1F2",
+        "city": [
+            {
+                "cityname": "Banjul",
+                "gmt": "+00:00",
+                "sign": false,
+                "hour": 9,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Georgia",
+        "emoji": "\ud83c\uddec\ud83c\uddea",
+        "emojiU": "U+1F1EC U+1F1EA",
+        "city": [
+            {
+                "cityname": "Tbilisi",
+                "gmt": "+04:00",
+                "sign": false,
+                "hour": 5,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Germany",
+        "emoji": "\ud83c\udde9\ud83c\uddea",
+        "emojiU": "U+1F1E9 U+1F1EA",
+        "city": [
+            {
+                "cityname": "Berlin",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            },
+            {
+                "cityname": "Busingen",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Ghana",
+        "emoji": "\ud83c\uddec\ud83c\udded",
+        "emojiU": "U+1F1EC U+1F1ED",
+        "city": [
+            {
+                "cityname": "Accra",
+                "gmt": "+00:00",
+                "sign": false,
+                "hour": 9,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Gibraltar",
+        "emoji": "\ud83c\uddec\ud83c\uddee",
+        "emojiU": "U+1F1EC U+1F1EE",
+        "city": [
+            {
+                "cityname": "Gibraltar",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Greece",
+        "emoji": "\ud83c\uddec\ud83c\uddf7",
+        "emojiU": "U+1F1EC U+1F1F7",
+        "city": [
+            {
+                "cityname": "Athens",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Greenland",
+        "emoji": "\ud83c\uddec\ud83c\uddf1",
+        "emojiU": "U+1F1EC U+1F1F1",
+        "city": [
+            {
+                "cityname": "Godthab",
+                "gmt": "-02:00",
+                "sign": false,
+                "hour": 11,
+                "min": 0
+            },
+            {
+                "cityname": "Thule",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            },
+            {
+                "cityname": "Danmarkshavn",
+                "gmt": "+00:00",
+                "sign": false,
+                "hour": 9,
+                "min": 0
+            },
+            {
+                "cityname": "Scoresbysund",
+                "gmt": "+00:00",
+                "sign": false,
+                "hour": 9,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Grenada",
+        "emoji": "\ud83c\uddec\ud83c\udde9",
+        "emojiU": "U+1F1EC U+1F1E9",
+        "city": [
+            {
+                "cityname": "Grenada",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Guadeloupe",
+        "emoji": "\ud83c\uddec\ud83c\uddf5",
+        "emojiU": "U+1F1EC U+1F1F5",
+        "city": [
+            {
+                "cityname": "Guadeloupe",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Guam",
+        "emoji": "\ud83c\uddec\ud83c\uddfa",
+        "emojiU": "U+1F1EC U+1F1FA",
+        "city": [
+            {
+                "cityname": "Guam",
+                "gmt": "+10:00",
+                "sign": true,
+                "hour": 1,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Guatemala",
+        "emoji": "\ud83c\uddec\ud83c\uddf9",
+        "emojiU": "U+1F1EC U+1F1F9",
+        "city": [
+            {
+                "cityname": "Guatemala",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Guernsey",
+        "emoji": "\ud83c\uddec\ud83c\uddec",
+        "emojiU": "U+1F1EC U+1F1EC",
+        "city": [
+            {
+                "cityname": "Guernsey",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Guinea",
+        "emoji": "\ud83c\uddec\ud83c\uddf3",
+        "emojiU": "U+1F1EC U+1F1F3",
+        "city": [
+            {
+                "cityname": "Conakry",
+                "gmt": "+00:00",
+                "sign": false,
+                "hour": 9,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Guinea_Bissau",
+        "emoji": "\ud83c\uddec\ud83c\uddfc",
+        "emojiU": "U+1F1EC U+1F1FC",
+        "city": [
+            {
+                "cityname": "Bissau",
+                "gmt": "+00:00",
+                "sign": false,
+                "hour": 9,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Guyana",
+        "emoji": "\ud83c\uddec\ud83c\uddfe",
+        "emojiU": "U+1F1EC U+1F1FE",
+        "city": [
+            {
+                "cityname": "Guyana",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Haiti",
+        "emoji": "\ud83c\udded\ud83c\uddf9",
+        "emojiU": "U+1F1ED U+1F1F9",
+        "city": [
+            {
+                "cityname": "Port_au_Prince",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Honduras",
+        "emoji": "\ud83c\udded\ud83c\uddf3",
+        "emojiU": "U+1F1ED U+1F1F3",
+        "city": [
+            {
+                "cityname": "Tegucigalpa",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Hong Kong",
+        "emoji": "\ud83c\udded\ud83c\uddf0",
+        "emojiU": "U+1F1ED U+1F1F0",
+        "city": [
+            {
+                "cityname": "Hong_Kong",
+                "gmt": "+08:00",
+                "sign": false,
+                "hour": 1,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Hungary",
+        "emoji": "\ud83c\udded\ud83c\uddfa",
+        "emojiU": "U+1F1ED U+1F1FA",
+        "city": [
+            {
+                "cityname": "Budapest",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Iceland",
+        "emoji": "\ud83c\uddee\ud83c\uddf8",
+        "emojiU": "U+1F1EE U+1F1F8",
+        "city": [
+            {
+                "cityname": "Reykjavik",
+                "gmt": "+00:00",
+                "sign": false,
+                "hour": 9,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "India",
+        "emoji": "\ud83c\uddee\ud83c\uddf3",
+        "emojiU": "U+1F1EE U+1F1F3",
+        "city": [
+            {
+                "cityname": "Kolkata",
+                "gmt": "+05:30",
+                "sign": false,
+                "hour": 3,
+                "min": 30
+            }
+        ]
+    },
+    {
+        "countryname": "Indonesia",
+        "emoji": "\ud83c\uddee\ud83c\udde9",
+        "emojiU": "U+1F1EE U+1F1E9",
+        "city": [
+            {
+                "cityname": "Jakarta",
+                "gmt": "+07:00",
+                "sign": false,
+                "hour": 2,
+                "min": 0
+            },
+            {
+                "cityname": "Pontianak",
+                "gmt": "+07:00",
+                "sign": false,
+                "hour": 2,
+                "min": 0
+            },
+            {
+                "cityname": "Makassar",
+                "gmt": "+08:00",
+                "sign": false,
+                "hour": 1,
+                "min": 0
+            },
+            {
+                "cityname": "Jayapura",
+                "gmt": "+09:00",
+                "sign": true,
+                "hour": 0,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Iran",
+        "emoji": "\ud83c\uddee\ud83c\uddf7",
+        "emojiU": "U+1F1EE U+1F1F7",
+        "city": [
+            {
+                "cityname": "Tehran",
+                "gmt": "+04:30",
+                "sign": false,
+                "hour": 4,
+                "min": 30
+            }
+        ]
+    },
+    {
+        "countryname": "Iraq",
+        "emoji": "\ud83c\uddee\ud83c\uddf6",
+        "emojiU": "U+1F1EE U+1F1F6",
+        "city": [
+            {
+                "cityname": "Baghdad",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Ireland",
+        "emoji": "\ud83c\uddee\ud83c\uddea",
+        "emojiU": "U+1F1EE U+1F1EA",
+        "city": [
+            {
+                "cityname": "Dublin",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Isle Of Man",
+        "emoji": "\ud83c\uddee\ud83c\uddf2",
+        "emojiU": "U+1F1EE U+1F1F2",
+        "city": [
+            {
+                "cityname": "Isle_of_Man",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Israel",
+        "emoji": "\ud83c\uddee\ud83c\uddf1",
+        "emojiU": "U+1F1EE U+1F1F1",
+        "city": [
+            {
+                "cityname": "Jerusalem",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Italy",
+        "emoji": "\ud83c\uddee\ud83c\uddf9",
+        "emojiU": "U+1F1EE U+1F1F9",
+        "city": [
+            {
+                "cityname": "Rome",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Ivory Coast",
+        "emoji": "\ud83c\udde8\ud83c\uddee",
+        "emojiU": "U+1F1E8 U+1F1EE",
+        "city": [
+            {
+                "cityname": "Abidjan",
+                "gmt": "+00:00",
+                "sign": false,
+                "hour": 9,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Jamaica",
+        "emoji": "\ud83c\uddef\ud83c\uddf2",
+        "emojiU": "U+1F1EF U+1F1F2",
+        "city": [
+            {
+                "cityname": "Jamaica",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Japan",
+        "emoji": "\ud83c\uddef\ud83c\uddf5",
+        "emojiU": "U+1F1EF U+1F1F5",
+        "city": [
+            {
+                "cityname": "Tokyo",
+                "gmt": "+09:00",
+                "sign": true,
+                "hour": 0,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Jersey",
+        "emoji": "\ud83c\uddef\ud83c\uddea",
+        "emojiU": "U+1F1EF U+1F1EA",
+        "city": [
+            {
+                "cityname": "Jersey",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Jordan",
+        "emoji": "\ud83c\uddef\ud83c\uddf4",
+        "emojiU": "U+1F1EF U+1F1F4",
+        "city": [
+            {
+                "cityname": "Amman",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Kazakhstan",
+        "emoji": "\ud83c\uddf0\ud83c\uddff",
+        "emojiU": "U+1F1F0 U+1F1FF",
+        "city": [
+            {
+                "cityname": "Aqtau",
+                "gmt": "+05:00",
+                "sign": false,
+                "hour": 4,
+                "min": 0
+            },
+            {
+                "cityname": "Aqtobe",
+                "gmt": "+05:00",
+                "sign": false,
+                "hour": 4,
+                "min": 0
+            },
+            {
+                "cityname": "Atyrau",
+                "gmt": "+05:00",
+                "sign": false,
+                "hour": 4,
+                "min": 0
+            },
+            {
+                "cityname": "Oral",
+                "gmt": "+05:00",
+                "sign": false,
+                "hour": 4,
+                "min": 0
+            },
+            {
+                "cityname": "Almaty",
+                "gmt": "+06:00",
+                "sign": false,
+                "hour": 3,
+                "min": 0
+            },
+            {
+                "cityname": "Qyzylorda",
+                "gmt": "+06:00",
+                "sign": false,
+                "hour": 3,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Kenya",
+        "emoji": "\ud83c\uddf0\ud83c\uddea",
+        "emojiU": "U+1F1F0 U+1F1EA",
+        "city": [
+            {
+                "cityname": "Nairobi",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Kiribati",
+        "emoji": "\ud83c\uddf0\ud83c\uddee",
+        "emojiU": "U+1F1F0 U+1F1EE",
+        "city": [
+            {
+                "cityname": "Tarawa",
+                "gmt": "+12:00",
+                "sign": true,
+                "hour": 3,
+                "min": 0
+            },
+            {
+                "cityname": "Enderbury",
+                "gmt": "+13:00",
+                "sign": true,
+                "hour": 4,
+                "min": 0
+            },
+            {
+                "cityname": "Kiritimati",
+                "gmt": "+14:00",
+                "sign": true,
+                "hour": 5,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Kuwait",
+        "emoji": "\ud83c\uddf0\ud83c\uddfc",
+        "emojiU": "U+1F1F0 U+1F1FC",
+        "city": [
+            {
+                "cityname": "Kuwait",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Kyrgyzstan",
+        "emoji": "\ud83c\uddf0\ud83c\uddec",
+        "emojiU": "U+1F1F0 U+1F1EC",
+        "city": [
+            {
+                "cityname": "Bishkek",
+                "gmt": "+06:00",
+                "sign": false,
+                "hour": 3,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Laos",
+        "emoji": "\ud83c\uddf1\ud83c\udde6",
+        "emojiU": "U+1F1F1 U+1F1E6",
+        "city": [
+            {
+                "cityname": "Vientiane",
+                "gmt": "+07:00",
+                "sign": false,
+                "hour": 2,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Latvia",
+        "emoji": "\ud83c\uddf1\ud83c\uddfb",
+        "emojiU": "U+1F1F1 U+1F1FB",
+        "city": [
+            {
+                "cityname": "Riga",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Lebanon",
+        "emoji": "\ud83c\uddf1\ud83c\udde7",
+        "emojiU": "U+1F1F1 U+1F1E7",
+        "city": [
+            {
+                "cityname": "Beirut",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Lesotho",
+        "emoji": "\ud83c\uddf1\ud83c\uddf8",
+        "emojiU": "U+1F1F1 U+1F1F8",
+        "city": [
+            {
+                "cityname": "Maseru",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Liberia",
+        "emoji": "\ud83c\uddf1\ud83c\uddf7",
+        "emojiU": "U+1F1F1 U+1F1F7",
+        "city": [
+            {
+                "cityname": "Monrovia",
+                "gmt": "+00:00",
+                "sign": false,
+                "hour": 9,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Libya",
+        "emoji": "\ud83c\uddf1\ud83c\uddfe",
+        "emojiU": "U+1F1F1 U+1F1FE",
+        "city": [
+            {
+                "cityname": "Tripoli",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Liechtenstein",
+        "emoji": "\ud83c\uddf1\ud83c\uddee",
+        "emojiU": "U+1F1F1 U+1F1EE",
+        "city": [
+            {
+                "cityname": "Vaduz",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Lithuania",
+        "emoji": "\ud83c\uddf1\ud83c\uddf9",
+        "emojiU": "U+1F1F1 U+1F1F9",
+        "city": [
+            {
+                "cityname": "Vilnius",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Luxembourg",
+        "emoji": "\ud83c\uddf1\ud83c\uddfa",
+        "emojiU": "U+1F1F1 U+1F1FA",
+        "city": [
+            {
+                "cityname": "Luxembourg",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Macau",
+        "emoji": "\ud83c\uddf2\ud83c\uddf4",
+        "emojiU": "U+1F1F2 U+1F1F4",
+        "city": [
+            {
+                "cityname": "Macau",
+                "gmt": "+08:00",
+                "sign": false,
+                "hour": 1,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Macedonia",
+        "emoji": "\ud83c\uddf2\ud83c\uddf0",
+        "emojiU": "U+1F1F2 U+1F1F0",
+        "city": [
+            {
+                "cityname": "Skopje",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Madagascar",
+        "emoji": "\ud83c\uddf2\ud83c\uddec",
+        "emojiU": "U+1F1F2 U+1F1EC",
+        "city": [
+            {
+                "cityname": "Antananarivo",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Malawi",
+        "emoji": "\ud83c\uddf2\ud83c\uddfc",
+        "emojiU": "U+1F1F2 U+1F1FC",
+        "city": [
+            {
+                "cityname": "Blantyre",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Malaysia",
+        "emoji": "\ud83c\uddf2\ud83c\uddfe",
+        "emojiU": "U+1F1F2 U+1F1FE",
+        "city": [
+            {
+                "cityname": "Kuala_Lumpur",
+                "gmt": "+08:00",
+                "sign": false,
+                "hour": 1,
+                "min": 0
+            },
+            {
+                "cityname": "Kuching",
+                "gmt": "+08:00",
+                "sign": false,
+                "hour": 1,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Maldives",
+        "emoji": "\ud83c\uddf2\ud83c\uddfb",
+        "emojiU": "U+1F1F2 U+1F1FB",
+        "city": [
+            {
+                "cityname": "Maldives",
+                "gmt": "+05:00",
+                "sign": false,
+                "hour": 4,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Mali",
+        "emoji": "\ud83c\uddf2\ud83c\uddf1",
+        "emojiU": "U+1F1F2 U+1F1F1",
+        "city": [
+            {
+                "cityname": "Bamako",
+                "gmt": "+00:00",
+                "sign": false,
+                "hour": 9,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Malta",
+        "emoji": "\ud83c\uddf2\ud83c\uddf9",
+        "emojiU": "U+1F1F2 U+1F1F9",
+        "city": [
+            {
+                "cityname": "Malta",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Marshall Islands",
+        "emoji": "\ud83c\uddf2\ud83c\udded",
+        "emojiU": "U+1F1F2 U+1F1ED",
+        "city": [
+            {
+                "cityname": "Kwajalein",
+                "gmt": "+12:00",
+                "sign": true,
+                "hour": 3,
+                "min": 0
+            },
+            {
+                "cityname": "Majuro",
+                "gmt": "+12:00",
+                "sign": true,
+                "hour": 3,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Martinique",
+        "emoji": "\ud83c\uddf2\ud83c\uddf6",
+        "emojiU": "U+1F1F2 U+1F1F6",
+        "city": [
+            {
+                "cityname": "Martinique",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Mauritania",
+        "emoji": "\ud83c\uddf2\ud83c\uddf7",
+        "emojiU": "U+1F1F2 U+1F1F7",
+        "city": [
+            {
+                "cityname": "Nouakchott",
+                "gmt": "+00:00",
+                "sign": false,
+                "hour": 9,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Mauritius",
+        "emoji": "\ud83c\uddf2\ud83c\uddfa",
+        "emojiU": "U+1F1F2 U+1F1FA",
+        "city": [
+            {
+                "cityname": "Mauritius",
+                "gmt": "+04:00",
+                "sign": false,
+                "hour": 5,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Mayotte",
+        "emoji": "\ud83c\uddfe\ud83c\uddf9",
+        "emojiU": "U+1F1FE U+1F1F9",
+        "city": [
+            {
+                "cityname": "Mayotte",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Mexico",
+        "emoji": "\ud83c\uddf2\ud83c\uddfd",
+        "emojiU": "U+1F1F2 U+1F1FD",
+        "city": [
+            {
+                "cityname": "Bahia_Banderas",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Cancun",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Matamoros",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Merida",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Mexico_City",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Monterrey",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Chihuahua",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            },
+            {
+                "cityname": "Mazatlan",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            },
+            {
+                "cityname": "Ojinaga",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            },
+            {
+                "cityname": "Hermosillo",
+                "gmt": "-07:00",
+                "sign": false,
+                "hour": 16,
+                "min": 0
+            },
+            {
+                "cityname": "Tijuana",
+                "gmt": "-07:00",
+                "sign": false,
+                "hour": 16,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Micronesia",
+        "emoji": "\ud83c\uddeb\ud83c\uddf2",
+        "emojiU": "U+1F1EB U+1F1F2",
+        "city": [
+            {
+                "cityname": "Chuuk",
+                "gmt": "+10:00",
+                "sign": true,
+                "hour": 1,
+                "min": 0
+            },
+            {
+                "cityname": "Kosrae",
+                "gmt": "+11:00",
+                "sign": true,
+                "hour": 2,
+                "min": 0
+            },
+            {
+                "cityname": "Pohnpei",
+                "gmt": "+11:00",
+                "sign": true,
+                "hour": 2,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Moldova",
+        "emoji": "\ud83c\uddf2\ud83c\udde9",
+        "emojiU": "U+1F1F2 U+1F1E9",
+        "city": [
+            {
+                "cityname": "Chisinau",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Monaco",
+        "emoji": "\ud83c\uddf2\ud83c\udde8",
+        "emojiU": "U+1F1F2 U+1F1E8",
+        "city": [
+            {
+                "cityname": "Monaco",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Mongolia",
+        "emoji": "\ud83c\uddf2\ud83c\uddf3",
+        "emojiU": "U+1F1F2 U+1F1F3",
+        "city": [
+            {
+                "cityname": "Hovd",
+                "gmt": "+07:00",
+                "sign": false,
+                "hour": 2,
+                "min": 0
+            },
+            {
+                "cityname": "Choibalsan",
+                "gmt": "+08:00",
+                "sign": false,
+                "hour": 1,
+                "min": 0
+            },
+            {
+                "cityname": "Ulaanbaatar",
+                "gmt": "+08:00",
+                "sign": false,
+                "hour": 1,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Montenegro",
+        "emoji": "\ud83c\uddf2\ud83c\uddea",
+        "emojiU": "U+1F1F2 U+1F1EA",
+        "city": [
+            {
+                "cityname": "Podgorica",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Montserrat",
+        "emoji": "\ud83c\uddf2\ud83c\uddf8",
+        "emojiU": "U+1F1F2 U+1F1F8",
+        "city": [
+            {
+                "cityname": "Montserrat",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Morocco",
+        "emoji": "\ud83c\uddf2\ud83c\udde6",
+        "emojiU": "U+1F1F2 U+1F1E6",
+        "city": [
+            {
+                "cityname": "Casablanca",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Mozambique",
+        "emoji": "\ud83c\uddf2\ud83c\uddff",
+        "emojiU": "U+1F1F2 U+1F1FF",
+        "city": [
+            {
+                "cityname": "Maputo",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Myanmar",
+        "emoji": "\ud83c\uddf2\ud83c\uddf2",
+        "emojiU": "U+1F1F2 U+1F1F2",
+        "city": [
+            {
+                "cityname": "Yangon",
+                "gmt": "+06:30",
+                "sign": false,
+                "hour": 2,
+                "min": 30
+            }
+        ]
+    },
+    {
+        "countryname": "Namibia",
+        "emoji": "\ud83c\uddf3\ud83c\udde6",
+        "emojiU": "U+1F1F3 U+1F1E6",
+        "city": [
+            {
+                "cityname": "Windhoek",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Nauru",
+        "emoji": "\ud83c\uddf3\ud83c\uddf7",
+        "emojiU": "U+1F1F3 U+1F1F7",
+        "city": [
+            {
+                "cityname": "Nauru",
+                "gmt": "+12:00",
+                "sign": true,
+                "hour": 3,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Nepal",
+        "emoji": "\ud83c\uddf3\ud83c\uddf5",
+        "emojiU": "U+1F1F3 U+1F1F5",
+        "city": [
+            {
+                "cityname": "Kathmandu",
+                "gmt": "+05:45",
+                "sign": false,
+                "hour": 3,
+                "min": 15
+            }
+        ]
+    },
+    {
+        "countryname": "Netherlands",
+        "emoji": "\ud83c\uddf3\ud83c\uddf1",
+        "emojiU": "U+1F1F3 U+1F1F1",
+        "city": [
+            {
+                "cityname": "Amsterdam",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "New Caledonia",
+        "emoji": "\ud83c\uddf3\ud83c\udde8",
+        "emojiU": "U+1F1F3 U+1F1E8",
+        "city": [
+            {
+                "cityname": "Noumea",
+                "gmt": "+11:00",
+                "sign": true,
+                "hour": 2,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "New Zealand",
+        "emoji": "\ud83c\uddf3\ud83c\uddff",
+        "emojiU": "U+1F1F3 U+1F1FF",
+        "city": [
+            {
+                "cityname": "Auckland",
+                "gmt": "+12:00",
+                "sign": true,
+                "hour": 3,
+                "min": 0
+            },
+            {
+                "cityname": "Chatham",
+                "gmt": "+12:45",
+                "sign": true,
+                "hour": 3,
+                "min": 45
+            }
+        ]
+    },
+    {
+        "countryname": "Nicaragua",
+        "emoji": "\ud83c\uddf3\ud83c\uddee",
+        "emojiU": "U+1F1F3 U+1F1EE",
+        "city": [
+            {
+                "cityname": "Managua",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Niger",
+        "emoji": "\ud83c\uddf3\ud83c\uddea",
+        "emojiU": "U+1F1F3 U+1F1EA",
+        "city": [
+            {
+                "cityname": "Niamey",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Nigeria",
+        "emoji": "\ud83c\uddf3\ud83c\uddec",
+        "emojiU": "U+1F1F3 U+1F1EC",
+        "city": [
+            {
+                "cityname": "Lagos",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Niue",
+        "emoji": "\ud83c\uddf3\ud83c\uddfa",
+        "emojiU": "U+1F1F3 U+1F1FA",
+        "city": [
+            {
+                "cityname": "Niue",
+                "gmt": "-11:00",
+                "sign": false,
+                "hour": 20,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Norfolk Island",
+        "emoji": "\ud83c\uddf3\ud83c\uddeb",
+        "emojiU": "U+1F1F3 U+1F1EB",
+        "city": [
+            {
+                "cityname": "Norfolk",
+                "gmt": "+11:00",
+                "sign": true,
+                "hour": 2,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "North Korea",
+        "emoji": "\ud83c\uddf0\ud83c\uddf5",
+        "emojiU": "U+1F1F0 U+1F1F5",
+        "city": [
+            {
+                "cityname": "Pyongyang",
+                "gmt": "+08:30",
+                "sign": false,
+                "hour": 0,
+                "min": 30
+            }
+        ]
+    },
+    {
+        "countryname": "Northern Mariana Islands",
+        "emoji": "\ud83c\uddf2\ud83c\uddf5",
+        "emojiU": "U+1F1F2 U+1F1F5",
+        "city": [
+            {
+                "cityname": "Saipan",
+                "gmt": "+10:00",
+                "sign": true,
+                "hour": 1,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Norway",
+        "emoji": "\ud83c\uddf3\ud83c\uddf4",
+        "emojiU": "U+1F1F3 U+1F1F4",
+        "city": [
+            {
+                "cityname": "Oslo",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Oman",
+        "emoji": "\ud83c\uddf4\ud83c\uddf2",
+        "emojiU": "U+1F1F4 U+1F1F2",
+        "city": [
+            {
+                "cityname": "Muscat",
+                "gmt": "+04:00",
+                "sign": false,
+                "hour": 5,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Pakistan",
+        "emoji": "\ud83c\uddf5\ud83c\uddf0",
+        "emojiU": "U+1F1F5 U+1F1F0",
+        "city": [
+            {
+                "cityname": "Karachi",
+                "gmt": "+05:00",
+                "sign": false,
+                "hour": 4,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Palau",
+        "emoji": "\ud83c\uddf5\ud83c\uddfc",
+        "emojiU": "U+1F1F5 U+1F1FC",
+        "city": [
+            {
+                "cityname": "Palau",
+                "gmt": "+09:00",
+                "sign": true,
+                "hour": 0,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Palestinian Territory",
+        "emoji": "\ud83c\uddf5\ud83c\uddf8",
+        "emojiU": "U+1F1F5 U+1F1F8",
+        "city": [
+            {
+                "cityname": "Gaza",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            },
+            {
+                "cityname": "Hebron",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Panama",
+        "emoji": "\ud83c\uddf5\ud83c\udde6",
+        "emojiU": "U+1F1F5 U+1F1E6",
+        "city": [
+            {
+                "cityname": "Panama",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Papua New Guinea",
+        "emoji": "\ud83c\uddf5\ud83c\uddec",
+        "emojiU": "U+1F1F5 U+1F1EC",
+        "city": [
+            {
+                "cityname": "Port_Moresby",
+                "gmt": "+10:00",
+                "sign": true,
+                "hour": 1,
+                "min": 0
+            },
+            {
+                "cityname": "Bougainville",
+                "gmt": "+11:00",
+                "sign": true,
+                "hour": 2,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Paraguay",
+        "emoji": "\ud83c\uddf5\ud83c\uddfe",
+        "emojiU": "U+1F1F5 U+1F1FE",
+        "city": [
+            {
+                "cityname": "Asuncion",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Peru",
+        "emoji": "\ud83c\uddf5\ud83c\uddea",
+        "emojiU": "U+1F1F5 U+1F1EA",
+        "city": [
+            {
+                "cityname": "Lima",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Philippines",
+        "emoji": "\ud83c\uddf5\ud83c\udded",
+        "emojiU": "U+1F1F5 U+1F1ED",
+        "city": [
+            {
+                "cityname": "Manila",
+                "gmt": "+08:00",
+                "sign": false,
+                "hour": 1,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Pitcairn",
+        "emoji": "\ud83c\uddf5\ud83c\uddf3",
+        "emojiU": "U+1F1F5 U+1F1F3",
+        "city": [
+            {
+                "cityname": "Pitcairn",
+                "gmt": "-08:00",
+                "sign": false,
+                "hour": 17,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Poland",
+        "emoji": "\ud83c\uddf5\ud83c\uddf1",
+        "emojiU": "U+1F1F5 U+1F1F1",
+        "city": [
+            {
+                "cityname": "Warsaw",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Portugal",
+        "emoji": "\ud83c\uddf5\ud83c\uddf9",
+        "emojiU": "U+1F1F5 U+1F1F9",
+        "city": [
+            {
+                "cityname": "Madeira",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            },
+            {
+                "cityname": "Lisbon",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            },
+            {
+                "cityname": "Azores",
+                "gmt": "+00:00",
+                "sign": false,
+                "hour": 9,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Puerto Rico",
+        "emoji": "\ud83c\uddf5\ud83c\uddf7",
+        "emojiU": "U+1F1F5 U+1F1F7",
+        "city": [
+            {
+                "cityname": "Puerto_Rico",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Qatar",
+        "emoji": "\ud83c\uddf6\ud83c\udde6",
+        "emojiU": "U+1F1F6 U+1F1E6",
+        "city": [
+            {
+                "cityname": "Qatar",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Republic Of The Congo",
+        "emoji": "\ud83c\udde8\ud83c\uddec",
+        "emojiU": "U+1F1E8 U+1F1EC",
+        "city": [
+            {
+                "cityname": "Brazzaville",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Reunion",
+        "emoji": "\ud83c\uddf7\ud83c\uddea",
+        "emojiU": "U+1F1F7 U+1F1EA",
+        "city": [
+            {
+                "cityname": "Reunion",
+                "gmt": "+04:00",
+                "sign": false,
+                "hour": 5,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Romania",
+        "emoji": "\ud83c\uddf7\ud83c\uddf4",
+        "emojiU": "U+1F1F7 U+1F1F4",
+        "city": [
+            {
+                "cityname": "Bucharest",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Russia",
+        "emoji": "\ud83c\uddf7\ud83c\uddfa",
+        "emojiU": "U+1F1F7 U+1F1FA",
+        "city": [
+            {
+                "cityname": "Kaliningrad",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            },
+            {
+                "cityname": "Kirov",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            },
+            {
+                "cityname": "Moscow",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            },
+            {
+                "cityname": "Simferopol",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            },
+            {
+                "cityname": "Volgograd",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            },
+            {
+                "cityname": "Astrakhan",
+                "gmt": "+04:00",
+                "sign": false,
+                "hour": 5,
+                "min": 0
+            },
+            {
+                "cityname": "Samara",
+                "gmt": "+04:00",
+                "sign": false,
+                "hour": 5,
+                "min": 0
+            },
+            {
+                "cityname": "Saratov",
+                "gmt": "+04:00",
+                "sign": false,
+                "hour": 5,
+                "min": 0
+            },
+            {
+                "cityname": "Ulyanovsk",
+                "gmt": "+04:00",
+                "sign": false,
+                "hour": 5,
+                "min": 0
+            },
+            {
+                "cityname": "Yekaterinburg",
+                "gmt": "+05:00",
+                "sign": false,
+                "hour": 4,
+                "min": 0
+            },
+            {
+                "cityname": "Omsk",
+                "gmt": "+06:00",
+                "sign": false,
+                "hour": 3,
+                "min": 0
+            },
+            {
+                "cityname": "Barnaul",
+                "gmt": "+07:00",
+                "sign": false,
+                "hour": 2,
+                "min": 0
+            },
+            {
+                "cityname": "Krasnoyarsk",
+                "gmt": "+07:00",
+                "sign": false,
+                "hour": 2,
+                "min": 0
+            },
+            {
+                "cityname": "Novokuznetsk",
+                "gmt": "+07:00",
+                "sign": false,
+                "hour": 2,
+                "min": 0
+            },
+            {
+                "cityname": "Novosibirsk",
+                "gmt": "+07:00",
+                "sign": false,
+                "hour": 2,
+                "min": 0
+            },
+            {
+                "cityname": "Tomsk",
+                "gmt": "+07:00",
+                "sign": false,
+                "hour": 2,
+                "min": 0
+            },
+            {
+                "cityname": "Irkutsk",
+                "gmt": "+08:00",
+                "sign": false,
+                "hour": 1,
+                "min": 0
+            },
+            {
+                "cityname": "Chita",
+                "gmt": "+09:00",
+                "sign": true,
+                "hour": 0,
+                "min": 0
+            },
+            {
+                "cityname": "Khandyga",
+                "gmt": "+09:00",
+                "sign": true,
+                "hour": 0,
+                "min": 0
+            },
+            {
+                "cityname": "Yakutsk",
+                "gmt": "+09:00",
+                "sign": true,
+                "hour": 0,
+                "min": 0
+            },
+            {
+                "cityname": "Ust_Nera",
+                "gmt": "+10:00",
+                "sign": true,
+                "hour": 1,
+                "min": 0
+            },
+            {
+                "cityname": "Vladivostok",
+                "gmt": "+10:00",
+                "sign": true,
+                "hour": 1,
+                "min": 0
+            },
+            {
+                "cityname": "Magadan",
+                "gmt": "+11:00",
+                "sign": true,
+                "hour": 2,
+                "min": 0
+            },
+            {
+                "cityname": "Sakhalin",
+                "gmt": "+11:00",
+                "sign": true,
+                "hour": 2,
+                "min": 0
+            },
+            {
+                "cityname": "Srednekolymsk",
+                "gmt": "+11:00",
+                "sign": true,
+                "hour": 2,
+                "min": 0
+            },
+            {
+                "cityname": "Anadyr",
+                "gmt": "+12:00",
+                "sign": true,
+                "hour": 3,
+                "min": 0
+            },
+            {
+                "cityname": "Kamchatka",
+                "gmt": "+12:00",
+                "sign": true,
+                "hour": 3,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Rwanda",
+        "emoji": "\ud83c\uddf7\ud83c\uddfc",
+        "emojiU": "U+1F1F7 U+1F1FC",
+        "city": [
+            {
+                "cityname": "Kigali",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Saint Barthelemy",
+        "emoji": "\ud83c\udde7\ud83c\uddf1",
+        "emojiU": "U+1F1E7 U+1F1F1",
+        "city": [
+            {
+                "cityname": "St_Barthelemy",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Saint Helena",
+        "emoji": "\ud83c\uddf8\ud83c\udded",
+        "emojiU": "U+1F1F8 U+1F1ED",
+        "city": [
+            {
+                "cityname": "St_Helena",
+                "gmt": "+00:00",
+                "sign": false,
+                "hour": 9,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Saint Kitts And Nevis",
+        "emoji": "\ud83c\uddf0\ud83c\uddf3",
+        "emojiU": "U+1F1F0 U+1F1F3",
+        "city": [
+            {
+                "cityname": "St_Kitts",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Saint Lucia",
+        "emoji": "\ud83c\uddf1\ud83c\udde8",
+        "emojiU": "U+1F1F1 U+1F1E8",
+        "city": [
+            {
+                "cityname": "St_Lucia",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Saint Martin",
+        "emoji": "\ud83c\uddf2\ud83c\uddeb",
+        "emojiU": "U+1F1F2 U+1F1EB",
+        "city": [
+            {
+                "cityname": "Marigot",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Saint Pierre And Miquelon",
+        "emoji": "\ud83c\uddf5\ud83c\uddf2",
+        "emojiU": "U+1F1F5 U+1F1F2",
+        "city": [
+            {
+                "cityname": "Miquelon",
+                "gmt": "-02:00",
+                "sign": false,
+                "hour": 11,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Saint Vincent And The Grenadines",
+        "emoji": "\ud83c\uddfb\ud83c\udde8",
+        "emojiU": "U+1F1FB U+1F1E8",
+        "city": [
+            {
+                "cityname": "St_Vincent",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Samoa",
+        "emoji": "\ud83c\uddfc\ud83c\uddf8",
+        "emojiU": "U+1F1FC U+1F1F8",
+        "city": [
+            {
+                "cityname": "Apia",
+                "gmt": "+13:00",
+                "sign": true,
+                "hour": 4,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "San Marino",
+        "emoji": "\ud83c\uddf8\ud83c\uddf2",
+        "emojiU": "U+1F1F8 U+1F1F2",
+        "city": [
+            {
+                "cityname": "San_Marino",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Sao Tome And Principe",
+        "emoji": "\ud83c\uddf8\ud83c\uddf9",
+        "emojiU": "U+1F1F8 U+1F1F9",
+        "city": [
+            {
+                "cityname": "Sao_Tome",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Saudi Arabia",
+        "emoji": "\ud83c\uddf8\ud83c\udde6",
+        "emojiU": "U+1F1F8 U+1F1E6",
+        "city": [
+            {
+                "cityname": "Riyadh",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Senegal",
+        "emoji": "\ud83c\uddf8\ud83c\uddf3",
+        "emojiU": "U+1F1F8 U+1F1F3",
+        "city": [
+            {
+                "cityname": "Dakar",
+                "gmt": "+00:00",
+                "sign": false,
+                "hour": 9,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Serbia",
+        "emoji": "\ud83c\uddf7\ud83c\uddf8",
+        "emojiU": "U+1F1F7 U+1F1F8",
+        "city": [
+            {
+                "cityname": "Belgrade",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Seychelles",
+        "emoji": "\ud83c\uddf8\ud83c\udde8",
+        "emojiU": "U+1F1F8 U+1F1E8",
+        "city": [
+            {
+                "cityname": "Mahe",
+                "gmt": "+04:00",
+                "sign": false,
+                "hour": 5,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Sierra Leone",
+        "emoji": "\ud83c\uddf8\ud83c\uddf1",
+        "emojiU": "U+1F1F8 U+1F1F1",
+        "city": [
+            {
+                "cityname": "Freetown",
+                "gmt": "+00:00",
+                "sign": false,
+                "hour": 9,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Singapore",
+        "emoji": "\ud83c\uddf8\ud83c\uddec",
+        "emojiU": "U+1F1F8 U+1F1EC",
+        "city": [
+            {
+                "cityname": "Singapore",
+                "gmt": "+08:00",
+                "sign": false,
+                "hour": 1,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Sint Maarten",
+        "emoji": "\ud83c\uddf8\ud83c\uddfd",
+        "emojiU": "U+1F1F8 U+1F1FD",
+        "city": [
+            {
+                "cityname": "Lower_Princes",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Slovakia",
+        "emoji": "\ud83c\uddf8\ud83c\uddf0",
+        "emojiU": "U+1F1F8 U+1F1F0",
+        "city": [
+            {
+                "cityname": "Bratislava",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Slovenia",
+        "emoji": "\ud83c\uddf8\ud83c\uddee",
+        "emojiU": "U+1F1F8 U+1F1EE",
+        "city": [
+            {
+                "cityname": "Ljubljana",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Solomon Islands",
+        "emoji": "\ud83c\uddf8\ud83c\udde7",
+        "emojiU": "U+1F1F8 U+1F1E7",
+        "city": [
+            {
+                "cityname": "Guadalcanal",
+                "gmt": "+11:00",
+                "sign": true,
+                "hour": 2,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Somalia",
+        "emoji": "\ud83c\uddf8\ud83c\uddf4",
+        "emojiU": "U+1F1F8 U+1F1F4",
+        "city": [
+            {
+                "cityname": "Mogadishu",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "South Africa",
+        "emoji": "\ud83c\uddff\ud83c\udde6",
+        "emojiU": "U+1F1FF U+1F1E6",
+        "city": [
+            {
+                "cityname": "Johannesburg",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "South Georgia And The South Sandwich Islands",
+        "emoji": "\ud83c\uddec\ud83c\uddf8",
+        "emojiU": "U+1F1EC U+1F1F8",
+        "city": [
+            {
+                "cityname": "South_Georgia",
+                "gmt": "-02:00",
+                "sign": false,
+                "hour": 11,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "South Korea",
+        "emoji": "\ud83c\uddf0\ud83c\uddf7",
+        "emojiU": "U+1F1F0 U+1F1F7",
+        "city": [
+            {
+                "cityname": "Seoul",
+                "gmt": "+09:00",
+                "sign": true,
+                "hour": 0,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "South Sudan",
+        "emoji": "\ud83c\uddf8\ud83c\uddf8",
+        "emojiU": "U+1F1F8 U+1F1F8",
+        "city": [
+            {
+                "cityname": "Juba",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Spain",
+        "emoji": "\ud83c\uddea\ud83c\uddf8",
+        "emojiU": "U+1F1EA U+1F1F8",
+        "city": [
+            {
+                "cityname": "Canary",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            },
+            {
+                "cityname": "Ceuta",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            },
+            {
+                "cityname": "Madrid",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Sri Lanka",
+        "emoji": "\ud83c\uddf1\ud83c\uddf0",
+        "emojiU": "U+1F1F1 U+1F1F0",
+        "city": [
+            {
+                "cityname": "Colombo",
+                "gmt": "+05:30",
+                "sign": false,
+                "hour": 3,
+                "min": 30
+            }
+        ]
+    },
+    {
+        "countryname": "Sudan",
+        "emoji": "\ud83c\uddf8\ud83c\udde9",
+        "emojiU": "U+1F1F8 U+1F1E9",
+        "city": [
+            {
+                "cityname": "Khartoum",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Suriname",
+        "emoji": "\ud83c\uddf8\ud83c\uddf7",
+        "emojiU": "U+1F1F8 U+1F1F7",
+        "city": [
+            {
+                "cityname": "Paramaribo",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Svalbard And Jan Mayen",
+        "emoji": "\ud83c\uddf8\ud83c\uddef",
+        "emojiU": "U+1F1F8 U+1F1EF",
+        "city": [
+            {
+                "cityname": "Longyearbyen",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Swaziland",
+        "emoji": "\ud83c\uddf8\ud83c\uddff",
+        "emojiU": "U+1F1F8 U+1F1FF",
+        "city": [
+            {
+                "cityname": "Mbabane",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Sweden",
+        "emoji": "\ud83c\uddf8\ud83c\uddea",
+        "emojiU": "U+1F1F8 U+1F1EA",
+        "city": [
+            {
+                "cityname": "Stockholm",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Switzerland",
+        "emoji": "\ud83c\udde8\ud83c\udded",
+        "emojiU": "U+1F1E8 U+1F1ED",
+        "city": [
+            {
+                "cityname": "Zurich",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Syria",
+        "emoji": "\ud83c\uddf8\ud83c\uddfe",
+        "emojiU": "U+1F1F8 U+1F1FE",
+        "city": [
+            {
+                "cityname": "Damascus",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Taiwan",
+        "emoji": "\ud83c\uddf9\ud83c\uddfc",
+        "emojiU": "U+1F1F9 U+1F1FC",
+        "city": [
+            {
+                "cityname": "Taipei",
+                "gmt": "+08:00",
+                "sign": false,
+                "hour": 1,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Tajikistan",
+        "emoji": "\ud83c\uddf9\ud83c\uddef",
+        "emojiU": "U+1F1F9 U+1F1EF",
+        "city": [
+            {
+                "cityname": "Dushanbe",
+                "gmt": "+05:00",
+                "sign": false,
+                "hour": 4,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Tanzania",
+        "emoji": "\ud83c\uddf9\ud83c\uddff",
+        "emojiU": "U+1F1F9 U+1F1FF",
+        "city": [
+            {
+                "cityname": "Dar_es_Salaam",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Thailand",
+        "emoji": "\ud83c\uddf9\ud83c\udded",
+        "emojiU": "U+1F1F9 U+1F1ED",
+        "city": [
+            {
+                "cityname": "Bangkok",
+                "gmt": "+07:00",
+                "sign": false,
+                "hour": 2,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Togo",
+        "emoji": "\ud83c\uddf9\ud83c\uddec",
+        "emojiU": "U+1F1F9 U+1F1EC",
+        "city": [
+            {
+                "cityname": "Lome",
+                "gmt": "+00:00",
+                "sign": false,
+                "hour": 9,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Tokelau",
+        "emoji": "\ud83c\uddf9\ud83c\uddf0",
+        "emojiU": "U+1F1F9 U+1F1F0",
+        "city": [
+            {
+                "cityname": "Fakaofo",
+                "gmt": "+13:00",
+                "sign": true,
+                "hour": 4,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Tonga",
+        "emoji": "\ud83c\uddf9\ud83c\uddf4",
+        "emojiU": "U+1F1F9 U+1F1F4",
+        "city": [
+            {
+                "cityname": "Tongatapu",
+                "gmt": "+13:00",
+                "sign": true,
+                "hour": 4,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Trinidad And Tobago",
+        "emoji": "\ud83c\uddf9\ud83c\uddf9",
+        "emojiU": "U+1F1F9 U+1F1F9",
+        "city": [
+            {
+                "cityname": "Port_of_Spain",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Tunisia",
+        "emoji": "\ud83c\uddf9\ud83c\uddf3",
+        "emojiU": "U+1F1F9 U+1F1F3",
+        "city": [
+            {
+                "cityname": "Tunis",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Turkey",
+        "emoji": "\ud83c\uddf9\ud83c\uddf7",
+        "emojiU": "U+1F1F9 U+1F1F7",
+        "city": [
+            {
+                "cityname": "Istanbul",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Turkmenistan",
+        "emoji": "\ud83c\uddf9\ud83c\uddf2",
+        "emojiU": "U+1F1F9 U+1F1F2",
+        "city": [
+            {
+                "cityname": "Ashgabat",
+                "gmt": "+05:00",
+                "sign": false,
+                "hour": 4,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Turks And Caicos Islands",
+        "emoji": "\ud83c\uddf9\ud83c\udde8",
+        "emojiU": "U+1F1F9 U+1F1E8",
+        "city": [
+            {
+                "cityname": "Grand_Turk",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Tuvalu",
+        "emoji": "\ud83c\uddf9\ud83c\uddfb",
+        "emojiU": "U+1F1F9 U+1F1FB",
+        "city": [
+            {
+                "cityname": "Funafuti",
+                "gmt": "+12:00",
+                "sign": true,
+                "hour": 3,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "U.S. Virgin Islands",
+        "emoji": "\ud83c\uddfb\ud83c\uddee",
+        "emojiU": "U+1F1FB U+1F1EE",
+        "city": [
+            {
+                "cityname": "St_Thomas",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Uganda",
+        "emoji": "\ud83c\uddfa\ud83c\uddec",
+        "emojiU": "U+1F1FA U+1F1EC",
+        "city": [
+            {
+                "cityname": "Kampala",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Ukraine",
+        "emoji": "\ud83c\uddfa\ud83c\udde6",
+        "emojiU": "U+1F1FA U+1F1E6",
+        "city": [
+            {
+                "cityname": "Kiev",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            },
+            {
+                "cityname": "Uzhgorod",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            },
+            {
+                "cityname": "Zaporozhye",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "United Arab Emirates",
+        "emoji": "\ud83c\udde6\ud83c\uddea",
+        "emojiU": "U+1F1E6 U+1F1EA",
+        "city": [
+            {
+                "cityname": "Dubai",
+                "gmt": "+04:00",
+                "sign": false,
+                "hour": 5,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "United Kingdom",
+        "emoji": "\ud83c\uddec\ud83c\udde7",
+        "emojiU": "U+1F1EC U+1F1E7",
+        "city": [
+            {
+                "cityname": "London",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "United States",
+        "emoji": "\ud83c\uddfa\ud83c\uddf8",
+        "emojiU": "U+1F1FA U+1F1F8",
+        "city": [
+            {
+                "cityname": "Detroit",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Indianapolis",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Marengo",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Petersburg",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Vevay",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Vincennes",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Winamac",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Louisville",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Monticello",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "New_York",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            },
+            {
+                "cityname": "Chicago",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Knox",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Tell_City",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Menominee",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Beulah",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Center",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "New_Salem",
+                "gmt": "-05:00",
+                "sign": false,
+                "hour": 14,
+                "min": 0
+            },
+            {
+                "cityname": "Boise",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            },
+            {
+                "cityname": "Denver",
+                "gmt": "-06:00",
+                "sign": false,
+                "hour": 15,
+                "min": 0
+            },
+            {
+                "cityname": "Los_Angeles",
+                "gmt": "-07:00",
+                "sign": false,
+                "hour": 16,
+                "min": 0
+            },
+            {
+                "cityname": "Phoenix",
+                "gmt": "-07:00",
+                "sign": false,
+                "hour": 16,
+                "min": 0
+            },
+            {
+                "cityname": "Anchorage",
+                "gmt": "-08:00",
+                "sign": false,
+                "hour": 17,
+                "min": 0
+            },
+            {
+                "cityname": "Juneau",
+                "gmt": "-08:00",
+                "sign": false,
+                "hour": 17,
+                "min": 0
+            },
+            {
+                "cityname": "Metlakatla",
+                "gmt": "-08:00",
+                "sign": false,
+                "hour": 17,
+                "min": 0
+            },
+            {
+                "cityname": "Nome",
+                "gmt": "-08:00",
+                "sign": false,
+                "hour": 17,
+                "min": 0
+            },
+            {
+                "cityname": "Sitka",
+                "gmt": "-08:00",
+                "sign": false,
+                "hour": 17,
+                "min": 0
+            },
+            {
+                "cityname": "Yakutat",
+                "gmt": "-08:00",
+                "sign": false,
+                "hour": 17,
+                "min": 0
+            },
+            {
+                "cityname": "Adak",
+                "gmt": "-09:00",
+                "sign": false,
+                "hour": 18,
+                "min": 0
+            },
+            {
+                "cityname": "Honolulu",
+                "gmt": "-10:00",
+                "sign": false,
+                "hour": 19,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "United States Minor Outlying Islands",
+        "emoji": "\ud83c\uddfa\ud83c\uddf2",
+        "emojiU": "U+1F1FA U+1F1F2",
+        "city": [
+            {
+                "cityname": "Midway",
+                "gmt": "-11:00",
+                "sign": false,
+                "hour": 20,
+                "min": 0
+            },
+            {
+                "cityname": "Wake",
+                "gmt": "+12:00",
+                "sign": true,
+                "hour": 3,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Uruguay",
+        "emoji": "\ud83c\uddfa\ud83c\uddfe",
+        "emojiU": "U+1F1FA U+1F1FE",
+        "city": [
+            {
+                "cityname": "Montevideo",
+                "gmt": "-03:00",
+                "sign": false,
+                "hour": 12,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Uzbekistan",
+        "emoji": "\ud83c\uddfa\ud83c\uddff",
+        "emojiU": "U+1F1FA U+1F1FF",
+        "city": [
+            {
+                "cityname": "Samarkand",
+                "gmt": "+05:00",
+                "sign": false,
+                "hour": 4,
+                "min": 0
+            },
+            {
+                "cityname": "Tashkent",
+                "gmt": "+05:00",
+                "sign": false,
+                "hour": 4,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Vanuatu",
+        "emoji": "\ud83c\uddfb\ud83c\uddfa",
+        "emojiU": "U+1F1FB U+1F1FA",
+        "city": [
+            {
+                "cityname": "Efate",
+                "gmt": "+11:00",
+                "sign": true,
+                "hour": 2,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Vatican",
+        "emoji": "\ud83c\uddfb\ud83c\udde6",
+        "emojiU": "U+1F1FB U+1F1E6",
+        "city": [
+            {
+                "cityname": "Vatican",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Venezuela",
+        "emoji": "\ud83c\uddfb\ud83c\uddea",
+        "emojiU": "U+1F1FB U+1F1EA",
+        "city": [
+            {
+                "cityname": "Caracas",
+                "gmt": "-04:00",
+                "sign": false,
+                "hour": 13,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Vietnam",
+        "emoji": "\ud83c\uddfb\ud83c\uddf3",
+        "emojiU": "U+1F1FB U+1F1F3",
+        "city": [
+            {
+                "cityname": "Ho_Chi_Minh",
+                "gmt": "+07:00",
+                "sign": false,
+                "hour": 2,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Wallis And Futuna",
+        "emoji": "\ud83c\uddfc\ud83c\uddeb",
+        "emojiU": "U+1F1FC U+1F1EB",
+        "city": [
+            {
+                "cityname": "Wallis",
+                "gmt": "+12:00",
+                "sign": true,
+                "hour": 3,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Western Sahara",
+        "emoji": "\ud83c\uddea\ud83c\udded",
+        "emojiU": "U+1F1EA U+1F1ED",
+        "city": [
+            {
+                "cityname": "El_Aaiun",
+                "gmt": "+01:00",
+                "sign": false,
+                "hour": 8,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Yemen",
+        "emoji": "\ud83c\uddfe\ud83c\uddea",
+        "emojiU": "U+1F1FE U+1F1EA",
+        "city": [
+            {
+                "cityname": "Aden",
+                "gmt": "+03:00",
+                "sign": false,
+                "hour": 6,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Zambia",
+        "emoji": "\ud83c\uddff\ud83c\uddf2",
+        "emojiU": "U+1F1FF U+1F1F2",
+        "city": [
+            {
+                "cityname": "Lusaka",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    },
+    {
+        "countryname": "Zimbabwe",
+        "emoji": "\ud83c\uddff\ud83c\uddfc",
+        "emojiU": "U+1F1FF U+1F1FC",
+        "city": [
+            {
+                "cityname": "Harare",
+                "gmt": "+02:00",
+                "sign": false,
+                "hour": 7,
+                "min": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,339 @@
+{
+  "signin" : {
+    "title" : "로그인",
+    "emailInput" : "이메일",
+    "passwordInput" : "비밀번호",
+    "loginbutton" : "로그인",
+    "forgotdesc" : "비밀번호를 잃어버리셨나요? ",
+    "forgotbutton" : "비밀번호 재설정",
+    "wrongpass" : "잘못된 이메일 또는 비밀번호를 입력하였습니다.",
+    "toomanyattempt" : "너무 많은 시도를 하였습니다. 조금 후 다시 시도해주세요.",
+    "datapolicy" : "개인정보처리방침",
+    "servicepolicy" : "이용약관",
+    "illegalpolicy" : "불법촬영물신고",
+    "homepage" : "유어마이 사업자정보",
+    "forgotmsg" : "가입한 이메일을 입력해주세요.",
+    "intro" : {
+      "one" : {
+        "title" : "소개",
+        "description" : "해당 어플은 생년월일시 데이터를 기반으로 사람 간의 궁합률을 분석하여 보여줍니다."
+      },
+      "two" : {
+        "title" : "주의사항",
+        "description" : "해당 어플은 사주라는 동양학적 철학을 기반으로 데이터를 분석하며, 그 어떠한 과학적 근거를 가지고 데이터를 표시하지 않는 점을 유의해 주시길 바랍니다."
+      },
+      "three" : {
+        "title" : "소망",
+        "description" : "본 개발자는 여러분이 자신만의 인연이 있고, 그 인연을 찾길 바라는 마음에 유어마이를 만들었습니다. \n어떤 인연이 되었든 부디 좋은 만남이 있기를 바랍니다."
+      },
+      "skip" : "스킵",
+      "next" : "다음",
+      "done" : "마침"
+    },
+    "error" : {
+      "pop" : "나가기",
+      "title" : "알림",
+      "sso" : "iCloud 및 Google 계정의 경우 안전한 계정 보호를 위해 sso를 통해 로그인 바랍니다."
+    }
+  },
+  "forgotpassword" : {
+    "title" : "비밀번호 재설정",
+    "emailInput" : "이메일",
+    "resetbutton" : "재설정",
+    "mailsent" : "비밀번호 재설정 링크가 이메일로 전달되었습니다."
+  },
+  "signup" : {
+    "profile" : {
+      "title" : "회원가입",
+      "subtitle" : "프로필",
+      "nameinput" : "닉네임",
+      "introinput" : "나에 대한 한 줄",
+      "submitbutton" : "다음",
+      "dialogtitle" : "알림",
+      "dialogmsg" : "사용하실 닉네임과 한 줄 소개를 입력해주세요."
+    },
+    "agree" : {
+      "title" : "회원가입",
+      "subtitle" : "약관",
+      "menutitle" : {
+        "agreeall" : "약관 전체 동의",
+        "overage" : "[필수] 본인은 19세 이상입니다.",
+        "privacy" : "[필수] 개인정보 이용약관",
+        "service" : "[필수] 서비스 이용약관",
+        "illigal" : "[필수] 불법촬영물 유통 및 신고안내"
+      },
+      "agreebutton" : "동의합니다.",
+      "dialogtitle" : "알림",
+      "dialogmsg" : "필수 약관에 동의해주시길 바랍니다."
+    },
+    "birthdate":  {
+      "title" : "회원가입",
+      "subtitle" : "생년월일시",
+      "birthday" : "생년월일을 선택해주세요",
+      "birthdayneccessary" : "생년월일은 필수입니다.",
+      "birthtime" : "태어난 시간을 선택해주세요.",
+      "birthtimeneccessary" : "태어난 시간은 필수입니다",
+      "birthdayoverage" : "현재 이 어플은 1951년까지만 지원합니다.",
+      "birthtimeconfirm" : "확인",
+      "birthtimenotnow" : "나중에",
+      "birthtimehelptext" : "태어난 시간",
+      "bwarningmsg" : "한번 입력된 생년월일은 추후 변경이 불가합니다. 신중히 입력바랍니다.",
+      "dialogtitle" : "생년월일시",
+      "dialogmsg" : "생년월일시는 사주 추출에 있어 꼭 필요한 데이터입니다."
+    },
+    "country" : {
+      "title" : "회원가입",
+      "subtitle" : "출생지 시간",
+      "notice" : "본인의 태어난 지역에 맞는 GMT를 입력해 주시길 바랍니다. 해당 정보는 정확한 사주계산을 위해 사용됩니다.\n단, 남반구 또는 4계절이 뚜렷하지 않은 지역일 경우, 사주 계산이 정확하지 않을 수 있습니다.",
+      "countrysearch" : "국가",
+      "countrysearchdescription" : "국가 검색",
+      "citysearch" : "도시",
+      "citysearchdescription" : "도시 검색",
+      "countrydropdown" : "*Country",
+      "citydropdown" : "*City",
+      "cwarningmsg" : "한번 입력된 출생지 시간 데이터는 추후 변경이 불가합니다. 신중히 입력바랍니다.",
+      "dialogtitle" : "출생지 시간",
+      "dialogmsg" : "본인의 태어난 지역에서 사용하는 GMT의 대표지역을 입력해 주시길 바랍니다. 해당 정보는 정확한 사주계산을 위해 사용됩니다.",
+      "dialogmsgbottom" : "단, 남반구 또는 4계절이 뚜렷하지 않은 지역일 경우, 사주 계산이 정확하지 않을 수 있습니다."
+    },
+    "mg" : {
+      "title" : "회원가입",
+      "gsubtitle" : "성별",
+      "gmale" : "남",
+      "gfemale" : "여",
+      "gwarningmsg" : "추후 성별은 변경이 불가합니다. 신중히 입력바랍니다.",
+      "msubtitle" : "MBTI",
+      "munknown" : "unknown",
+      "dialogtitle" : "Gender & MBTI",
+      "dialogmsg" : "성별은 사주계산과 더불어 이성을 매칭시키기 위한 조건 정보로 사용되며, MBTI는 상대방에게 본인의 성향에 대한 정보를 전달하기 위함입니다."
+    },
+    "nextbutton" : "다음",
+    "createbutton" : "계정 생성"
+  },
+  "home" : {
+    "mydestiny" : "내 리스트",
+    "worlddestiny" : "월드 리스트",
+    "nocandidate" : "후보자가 없습니다.",
+    "addfriend" : "친구 추가",
+    "deletefriend" : "친구 삭제",
+    "blockfriend" : "친구 차단",
+    "candidates" : "후보자",
+    "chat" : "채팅",
+    "report":{
+      "reporttitle" : "신고",
+      "reportcredential" : "민감한 정보",
+      "reportillegalfirm" : "불법촬영물",
+      "reporthacking" : "사이버 공격 의심",
+      "reportetc" : "기타 이유"
+    },
+    "reportsubmit" : "제출"
+  },
+  "global" : {
+    "confirm" : "확인",
+    "cancel" : "취소"
+  },
+  "chatlist" : {
+    "mychat" : "채팅",
+    "nochatlist" : "채팅방이 없습니다.",
+    "none" : "익명의",
+    "addfriend" : "친구로 추가하시겠습니까?\n(친구를 추가하여 상세 프로필을 확인하세요.)",
+    "yes" : "예",
+    "no" : "아니오",
+    "friendlimit" : "친구 한도는 5명입니다.",
+    "error" : {
+      "pop" : "나가기"
+    }
+  },
+  "chatboard" : {
+    "title" : "채팅 방",
+    "notice" : {
+      "abusivetitle" : "알림",
+      "abusivecontent": "당신의 메시지가 상대방에게 우호적이지 않은 것으로 보입니다. 부디 좋은 만남을 위해 심사숙고를 부탁드립니다."
+    },
+    "report":{
+      "reporttitle" : "신고",
+      "reportcredential" : "민감한 정보",
+      "reportillegalfirm" : "불법촬영물",
+      "reporthacking" : "사이버 공격 의심",
+      "reportetc" : "기타 이유"
+    },
+    "reportsubmit" : "제출",
+    "messagelimit" : "메세지 한도는 200개입니다.",
+    "error" : {
+      "pop" : "나가기"
+    }
+  },
+  "candidate" : {
+    "numofcandi" : "가입된 이성",
+    "numofurmy" : "가입된 유어마이",
+    "friendlimit" : "친구 한도는 5명입니다.",
+    "error" : {
+      "pop" : "나가기"
+    }
+  },
+  "setting" : {
+    "main": {
+      "title" : "설정",
+      "account" : "계정",
+      "notification" : "알림",
+      "password" : "비밀번호",
+      "agefilter" : "나이 조정",
+      "blacklist" : "차단 관리",
+      "withdrawal" : "회원탈퇴",
+      "language" : "언어"
+    },
+    "account" : {
+      "title" : "계정 정보",
+      "personaldata" : "개인 정보",
+      "email" : {
+        "title" : "이메일 변경",
+        "curremail" : "현재 이메일: ",
+        "emailinput" : "이메일 입력",
+        "submitbutton" : "제출",
+        "unupdatable" : "입력하신 이메일로 변경할 수 없습니다."
+      },
+      "password" : {
+        "title" : "비밀번호 변경",
+        "emailinput" : "이메일",
+        "submit" : "재설정 링크 보내기",
+        "curremail" : "링크를 받을 이메일",
+        "mailsent" : "비밀번호 재설정 링크가 이메일로 전달되었습니다."
+      },
+      "withdrawal" : {
+        "title" : "멤버십 회원탈퇴",
+        "notice": "좋은 인연을 만나셨기를 바라며, 지금까지 저희 서비스를 이용해주셔서 감사합니다.",
+        "specific" : "회원탈퇴를 하시면, 개인정보 및 서비스 이용내역에 대해서 파기됩니다.",
+        "submitbutton" : "회원탈퇴"
+      }
+    },
+    "agefilter" : {
+      "title" : "나이 조정",
+      "age" : "나이",
+      "submitbutton" : "제출"
+    },
+    "blacklist" :{
+      "title" : "차단 관리",
+      "nocandidate" : "차단된 후보자가 없습니다",
+      "deleteblacklist" : "차단 목록에서 삭제"
+    },
+    "language" : {
+      "title": "언어 선택",
+      "notice": "선호하는 언어를 선택해주세요.",
+      "list": {
+        "en": "영어",
+        "kr": "한국어",
+        "jp": "일본어"
+      }
+    }
+  },
+  "information" : {
+    "main" : {
+      "title" : "정보",
+      "servicepolicy" : "서비스 이용약관",
+      "datapolicy" : "개인정보 이용약관",
+      "illegalpolicy" : "불법촬영물 신고안내",
+      "opensourcepolicy" : "오픈소스 정책"
+    },
+    "servicepolicy" : {
+      "title" : "서비스 이용약관"
+    },
+    "datapolicy" : {
+      "title" : "개인정보 이용약관"
+    },
+    "opensourcepolicy" : {
+      "title" : "오픈소스 정책"
+    },
+    "illegalpolicy" : {
+      "title" : "불법촬영물 신고안내"
+    },
+    "homepage" : {
+      "title" : "유어마이 사업자정보"
+    }
+  },
+  "help" : {
+    "main" : {
+      "title": "고객 센터",
+      "inquiry": "문의",
+      "inquirylist" : "문의 목록"
+    },
+    "inquiry": {
+      "title" : "문의",
+      "inquirytype" : "카테고리",
+      "inquirytitle" : "제목",
+      "needtitle" : "제목을 입력해주시길 바랍니다.",
+      "inquirycontent" : "본문",
+      "needcontent" : "본문을 입력해주시길 바랍니다.",
+      "submit" : "제출",
+      "uncomfortable" : "불편한 점",
+      "billing" : "결제 문의",
+      "tech" : "기술 문의",
+      "etc" : "기타 문의",
+      "noinquiry" : "문의 내역이 없습니다."
+    },
+    "currentinquiry" : {
+      "reply" : "답변",
+      "needcontent" : "본문을 입력해주시길 바랍니다.",
+      "submit" : "제출"
+    }
+  },
+  "profile" : {
+    "main" : {
+      "profile" : "프로필",
+      "setting" : "설정",
+      "information" : "정보",
+      "help" : "고객센터",
+      "editno" : "아니오",
+      "edityes" : "예",
+      "editdescription" : "프로필 사진을 수정하시겠습니까?"
+    },
+    "candidate" : {
+      "chatbutton" : "채팅"
+    },
+    "update" : {
+      "main" : {
+        "title" : "프로필 수정",
+        "signout" : "로그아웃"
+      },
+      "name" : {
+        "title" : "프로필 수정",
+        "subtitle" : "닉네임",
+        "nameinput" : "사용할 닉네임을 입력해주세요",
+        "submitbutton" : "제출"
+      },
+      "description" : {
+        "title" : "한 줄 소개",
+        "descriptioninput": "소개글을 입력해주세요.",
+        "submitbutton" : "제출"
+      },
+      "mbti" : {
+        "title" : "프로필 수정",
+        "subtitle" : "MBTI",
+        "mbtiinput" : "MBTI",
+        "submitbutton" : "제출"
+      },
+      "birthdate" : {
+        "title" : "프로필 수정",
+        "subtitle" : "생시",
+        "birthtime" : "태어난 시간",
+        "birthtimeneccessary" : "태어난 시간은 수정 후 한달 뒤 추가 수정이 가능하므로 신중하게 수정바랍니다.",
+        "submitbutton" : "제출",
+        "confirmtext" : "확인",
+        "canceltext" : "나중에",
+        "helptext" : "생시",
+        "dialogtitle" : "생시",
+        "dialogmsg" : "태어난 시간은 사주 추출에 있어 꼭 필요한 데이터입니다.",
+        "toomanyerr" : "당신은 생일 수정을 너무 많이 시도하였습니다. 생일은 시스템에 영향을 끼치는 정보이므로 수정 후 한달 뒤에 추가 수정이 가능합니다.",
+        "err" : "현재 생일을 수정할 수 없습니다. 시스템 관리자에게 문의주세요."
+      },
+      "residence" : {
+        "title" : "프로필 수정",
+        "subtitle" : "활동지역",
+        "residenceinput" : "활동지역",
+        "submitbutton" : "제출"
+      }
+    }
+  },
+  "service" : {
+
+  }
+}

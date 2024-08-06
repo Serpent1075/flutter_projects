@@ -1,0 +1,11 @@
+export './urmytalk_user_model.dart';
+export './key_config.dart';
+export './urmytalk_candidate_model.dart';
+export './urmytalk_message_model.dart';
+export './urmytalk_chat_list_model.dart';
+export './urmytalk_profilepic_model.dart';
+export './urmytalk_service_model.dart';
+export './urmytalk_service_purchased_model.dart';
+export './urmytalk_country_model.dart';
+export './urmytalk_setting_model.dart';
+export './urmytalk_inquiry_model.dart';

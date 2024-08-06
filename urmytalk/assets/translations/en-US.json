@@ -1,0 +1,345 @@
+{
+  "signin" : {
+    "title" : "Sign In",
+    "emailInput" : "Email",
+    "passwordInput" : "Password",
+    "loginbutton" : "Login",
+    "forgotdesc" : "Forgot Password? ",
+    "forgotbutton" : "Reset Password",
+    "wrongpass" : "Wrong Email or password",
+    "toomanyattempt" : "Too Many Attempt",
+    "datapolicy" : "Data Policy",
+    "servicepolicy" : "Privacy Policy",
+    "illegalpolicy" : "Report Illegal Filming",
+    "homepage" : "Urmy Corp Information",
+    "forgotmsg" : "Input signed up email",
+    "intro" : {
+      "one" : {
+        "title" : "Introcution",
+        "description" : "The application analyzes and shows the harmonious ratio between people based on the date of birth data."
+      },
+      "two" : {
+        "title" : "Precaution",
+        "description" : "Please note that this app analyzes data based on the oriental philosophy of saju, and does not display data based on any scientific basis."
+      },
+      "three" : {
+        "title" : "Wish",
+        "description" : "This developer created UrMy with the hope that you have your own relationship and find that relationship.\nWhatever the relationship, I hope you have a good meeting."
+      },
+      "skip" : "Skip",
+      "next" : "Next",
+      "done" : "Done"
+    },
+    "error" : {
+      "pop" : "Back",
+      "title" : "Notification",
+      "sso" : "For icloud and google accounts, please login through SSO to protect your account safely."
+    }
+  },
+  "forgotpassword" : {
+    "title" : "Reset Password",
+    "emailInput" : "Email",
+    "resetbutton" : "Reset",
+    "mailsent" : "Password reset link has been sent to your email address."
+  },
+  "signup" : {
+    "profile" : {
+      "title" : "Sign Up",
+      "subtitle" : "Profile",
+      "nameinput" : "Nickname",
+      "introinput" : "About Me",
+      "submitbutton" : "Submit",
+      "dialogtitle" : "Notice",
+      "dialogmsg" : "Please fill in your nickname and 1 line introduction"
+    },
+    "agree" : {
+      "title" : "Sign Up",
+      "subtitle" : "Policy Agreement",
+      "menutitle" : {
+        "agreeall" : "I agree to all",
+        "overage" : "Over 19 years old",
+        "privacy" : "Privacy Policy",
+        "service" : "Terms of Service",
+        "illigal" : "Illegal Filming Policy"
+      },
+      "agreebutton" : "Agree",
+      "dialogtitle" : "Notice",
+      "dialogmsg" : "Please agree to the terms of service and privacy policy"
+    },
+    "birthdate":  {
+      "title" : "Sign Up",
+      "subtitle" : "Birthdate",
+      "birthday" : "Pick Year-Month-Day",
+      "birthdayneccessary" : "Year-Month-Day is necessary",
+      "birthtime" : "Pick Time of your birth",
+      "birthtimeneccessary" : "Birth time is necessary",
+      "birthdayoverage" : "This app currently supports only those born after 1951",
+      "birthtimeconfirm" : "Confirm",
+      "birthtimenotnow" : "Not now",
+      "birthtimehelptext" : "Birth time",
+      "bwarningmsg" : "Please enter your date of birth carefully as it cannot be modified later.",
+      "dialogtitle" : "Birthdate",
+      "dialogmsg" : "The birthdate is necessary for the system calculating saju to match your partner properly. "
+    },
+    "country" : {
+      "title" : "Sign Up",
+      "subtitle" : "Place of Birth",
+      "notice" : "Please enter the place where the same GMT that your place of birth uses.\nThe data is used to calculate exact saju data.\nUnfortunately, in the Southern Hemisphere or in regions where the four seasons are not distinct, the calculation of the saju may not be accurate.",
+      "countrysearch" : "Country",
+      "countrysearchdescription" : "Search for a country",
+      "citysearch" : "City",
+      "citysearchdescription" : "Search for a city",
+      "countrydropdown" : "*Country",
+      "citydropdown" : "*City",
+      "cwarningmsg" : "Birthplace is data that cannot be modified later, so please enter it carefully.",
+      "dialogtitle" : "Home Town",
+      "dialogmsg" : "Please enter the representative area of GMT used in the area where you were born.",
+      "dialogmsgbottom": "The country is necessary for the system calculating right time(GMT) to match your partner properly."
+    },
+    "mg" : {
+      "title" : "Sign Up",
+      "gsubtitle" : "Gender",
+      "gmale" : "Male",
+      "gfemale" : "Female",
+      "gwarningmsg" : "Gender is data that cannot be modified later, so please enter it carefully.",
+      "msubtitle" : "MBTI",
+      "munknown" : "unknown",
+      "dialogtitle" : "Gender & MBTI",
+      "dialogmsg" : "The gender is necessary for the system to match your partner properly. \n While mbti is for giving your partner more information about who you are."
+    },
+    "nextbutton" : "Next",
+    "createbutton" : "CREATE ACCOUNT"
+  },
+  "home" : {
+    "mydestiny" : "My List",
+    "worlddestiny" : "World List",
+    "nocandidate" : "No candidate yet",
+    "addfriend" : "Add friend",
+    "deletefriend" : "Delete friend",
+    "blockfriend" : "Block friend",
+    "candidates" : "Candidates",
+    "chat" : "Chat",
+    "report":{
+      "reporttitle" : "Report",
+      "reportcredential" : "Sensitive Information",
+      "reportillegalfirm" : "Illegal Filming",
+      "reporthacking" : "Suspected Cyber Attack",
+      "reportetc" : "Other reasons"
+    },
+    "reportsubmit" : "Submit"
+  },
+  "global" : {
+    "confirm" : "Confirm",
+    "cancel" : "Cancel"
+  },
+  "chatlist" : {
+    "mychat" : "My Chat",
+    "nochatlist" : "No chat list yet",
+    "none" : "anonymous",
+    "addfriend" : "Would you like to add the person as a friend?\n(You can check detailed information by adding friends.)",
+    "yes" : "Yes",
+    "no" : "No",
+    "friendlimit" : "Limit number of friends is 5",
+    "error" : {
+      "pop" : "Back"
+    }
+  },
+  "chatboard" : {
+    "title" : "Chat Board",
+    "notice" : {
+      "abusivetitle" : "Notice",
+      "abusivecontent": "Your message appears to be unfriendly to the other party. Please consider carefully for a good meeting."
+    },
+    "report":{
+      "reporttitle" : "Report",
+      "reportcredential" : "Sensitive Information",
+      "reportillegalfirm" : "Illegal Filming",
+      "reporthacking" : "Suspected Cyber Attack",
+      "reportetc" : "Other reasons"
+    },
+    "reportsubmit" : "Submit",
+    "messagelimit" : "Limit number of messages is 200",
+    "error" : {
+      "pop" : "Back"
+    }
+  },
+  "candidate" : {
+    "numofcandi" : "Joined candidates",
+    "numofurmy" : "Joined urmy",
+    "messagelimit" : "Limit number of messages is 200",
+    "friendlimit" : "Limit number of friends is 5",
+    "error" : {
+      "pop" : "Back"
+    }
+  },
+  "setting" : {
+    "main": {
+      "title" : "Setting",
+      "account" : "Account",
+      "notification" : "Notification",
+      "password" : "Password",
+      "agefilter" : "Age Filter",
+      "blacklist" : "Manage Blacklist",
+      "withdrawal" : "Delete Account",
+      "language" : "Language"
+    },
+    "account" : {
+      "title" : "Account Data",
+      "personaldata" : "Personal Data",
+      "email" : {
+        "title" : "Renew Email",
+        "curremail" : "Current Email: ",
+        "emailinput" : "Email",
+        "submitbutton" : "Submit",
+        "unupdatable" : "The email is not applicable, use different email"
+      },
+      "password" : {
+        "title" : "Change Password",
+        "emailinput" : "Email",
+        "submit" : "Send Reset Link Email",
+        "curremail" : "Address that link will be sent",
+        "mailsent" : "Password reset link has been sent to your email address."
+      },
+      "withdrawal" : {
+        "title" : "Delete Account",
+        "notice": "We would like to thank you for your use of our services so far, and hope that you have met a good relationship",
+        "specific" : "After you cancel your membership, you stored personal information and all usage history will be deleted",
+        "submitbutton" : "Delete Account"
+      }
+    },
+    "agefilter" : {
+      "title" : "Age Filter",
+      "age" : "Age",
+      "submitbutton" : "Submit"
+    },
+    "blacklist" :{
+      "title" : "Manage Blacklist",
+      "nocandidate" : "No Blacklist",
+      "deleteblacklist" : "Delete from Blacklist"
+    },
+    "language" : {
+      "title" : "Language Selection",
+      "notice" : "Select the language you prefer",
+      "list" : {
+        "en" : "English",
+        "kr" : "Korean",
+        "jp" : "Japan"
+      }
+    }
+  },
+  "information" : {
+    "main" : {
+      "title" : "Information",
+      "servicepolicy" : "Service Policy",
+      "datapolicy" : "Data Policy",
+      "illegalpolicy" : "Illegal Filming Policy",
+      "opensourcepolicy" : "Open Source Policy"
+    },
+    "servicepolicy" : {
+      "title" : "Service Policy",
+      "content" : "Service Policy"
+    },
+    "datapolicy" : {
+      "title" : "Data Policy",
+      "content" : "Data Policy"
+    },
+    "opensourcepolicy" : {
+      "title" : "Open Source Policy",
+      "content" : "Open Source Policy"
+    },
+    "illegalpolicy" : {
+      "title" : "Illegal Filming Policy",
+      "content" : "Illegal Filming Policy"
+    },
+    "homepage" : {
+      "title" : "Urmy Corp Information"
+    }
+  },
+  "help" : {
+    "main" : {
+      "title": "Help",
+      "inquiry": "Inquiry",
+      "inquirylist" : "Inquiry List"
+    },
+    "inquiry": {
+      "title" : "Inquiry",
+      "inquirytype" : "Category",
+      "inquirytitle" : "Title",
+      "needtitle" : "Please fill the title",
+      "inquirycontent" : "Content",
+      "needcontent" : "Please fill the content",
+      "submit" : "Submit",
+      "uncomfortable" : "Uncomfortable Point",
+      "billing" : "Billing Inquiry",
+      "tech" : "Tech Inquiry",
+      "etc" : "ETC",
+      "noinquiry" : "No Inquiry"
+    },
+    "currentinquiry" : {
+      "reply" : "Reply",
+      "needcontent" : "Please fill the content",
+      "submit" : "Submit"
+    }
+  },
+  "profile" : {
+    "main" : {
+      "profile" : "Profile",
+      "setting" : "Setting",
+      "information" : "Information",
+      "help" : "Help",
+      "editno" : "No",
+      "edityes" : "Yes",
+      "editdescription" : "Do you want to edit profile picture?"
+    },
+    "candidate" : {
+      "chatbutton" : "Chat"
+    },
+    "update" : {
+      "main" : {
+        "title" : "Update Profile",
+        "signout" : "Sign Out"
+
+      },
+      "name" : {
+        "title" : "Update",
+        "subtitle" : "Nickname",
+        "nameinput" : "Input your nick name",
+        "submitbutton" : "Submit"
+      },
+      "description" : {
+        "title" : "About Me",
+        "descriptioninput": "Describe about you",
+        "submitbutton" : "Submit"
+      },
+      "mbti" : {
+        "title" : "Update",
+        "subtitle" : "MBTI",
+        "mbtiinput" : "MBTI",
+        "submitbutton" : "Submit"
+      },
+      "birthdate" : {
+        "title" : "Update",
+        "subtitle" : "Birth Time",
+        "birthtime" : "Pick the time of your birth",
+        "birthtimeneccessary" : "The date of birth may be revised one month after the revision, so please edit it carefully.",
+        "submitbutton" : "Submit",
+        "confirmtext" : "CONFIRM",
+        "canceltext" : "NOT NOW",
+        "helptext" : "Birth Time",
+        "dialogtitle" : "Birthdate",
+        "dialogmsg" : "The birthdate is necessary for the system calculating saju to match your partner properly.",
+        "toomanyerr" : "You tried too many birthday corrections. Since the date of birth is information that affects the system, additional revisions are possible one month after the revision.",
+        "err" : "You cannot update your birth time right now. Please report this problem via help"
+      },
+      "residence" : {
+        "title" : "Update",
+        "subtitle" : "Residence",
+        "residenceinput" : "Residence",
+        "submitbutton" : "Submit"
+      }
+    }
+  },
+  "service" : {
+
+  }
+}
